@@ -11,24 +11,11 @@ Version 0.4.7
 03.08.2023
 
 image:Pictures/10000000000002D0000001939129F1E1605F34AB.jpg[image,width=642,height=359]
-Test
 
-= My Document
 
-:stylesheet: custom-styles.css
 
-[.my-table]
-|===
-|Column 1 |Column 2 |Column 3
 
-|Regular text
-|Normal size
-|More content
 
-|Larger text
-|Bigger size
-|Even bigger text
-|===
 
 
 == Lieder Tabelle
@@ -55,8 +42,8 @@ Test
 |https://www.youtube.com/watch?v=f5S8L_Lit4o
 |
 
-|Ana Belén
-|Contamíname
+|xref:Ana Belén y Víctor Manuel[Ana Belén y Víctor Manuel]
+|xref:Contamíname[Contamíname]
 |https://open.spotify.com/track/19TYg1tkwLpOH2mxyE6X7u
 |https://www.youtube.com/watch?v=WQ5ufDdmH2s
  https://www.youtube.com/watch?v=GwvxMRiqb1w (404)
@@ -103,8 +90,8 @@ Test
 |https://youtu.be/xzj9UwekfDg
 |
 
-|Cat Stevens
-|Father and Son
+|xref:Cat Stevens[Cat Stevens]
+|xref:Father and Son[Father and Son]
 |https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA?si=e6823d60447e41d8[https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA]
 |https://www.youtube.com/watch?v=yERildSsWxM
 |
@@ -155,8 +142,8 @@ Test
 |https://www.youtube.com/watch?v=iN__Dxj5Xb4
 |https://www.musixmatch.com/lyrics/Emilia/Big-Big-World/translation/spanish (sync)
 
-|Los Especialistas
-|Calor y sudor
+|xref:Los Especialistas[Los Especialistas]
+|xref:Calor y sudor[Calor y sudor]
 |no-Spotify
 |https://www.youtube.com/watch?v=UE2yb7GCe9Q
 |
@@ -167,15 +154,15 @@ Test
 |https://www.youtube.com/watch?v=8qz8FqmTsJY (sin letra)
 |
 
-|Gloria Stefan
-|Mi Tierra
+|xref:Gloria Estefan[Gloria Estefan]
+|xref:Mi tierra[Mi tierra]
 |https://open.spotify.com/track/7JUcTavASbRqsjc6cDCSOw
 | https://www.youtube.com/watch?v=vgBwZDv9EN0 (Karaoke Version)
   https://www.youtube.com/watch?v=6shTO_0uiY0 (Ohne Text)
 |
 
-|The Gipsy Kings
-|Bamboleo (Caballo Viejo)
+|xref:Gipsy Kings[Gipsy Kings]
+|xref:Bamboleo[Bamboleo (Caballo Viejo)]
 |https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9
 |https://www.youtube.com/watch?v=rtd54iXvZdM
 |
@@ -463,6 +450,3 @@ Test
 |https://www.musixmatch.com/lyrics/ZAZ/Port-coton
 |
 |===
-
-Refer to xref:Lieder.adoc#Level-2[Level-2] for more information.
-Refer to xref:Level-2[Level-2] for more information.

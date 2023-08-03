@@ -1,10 +1,66 @@
-=== Lieder 
 
-Try xref:Moop Mama - Die Erfindung des Rades[Moop Mama - Die Erfindung des Rades]
+== Ana Belén y Víctor Manuel
 
-Refer to xref:Level-2[Level-2] for more information.
+=== Contamíname
+Ana Belén y Víctor Manuel - Mucho más que dos (1994)
+include::../Lyrics/Ana Belén y Víctor Manuel/1994 - Mucho más que dos/1-01 Contamíname.txt[]
 
-include::../macros.adoc[]
+
+== Bob Dylan
+=== Blowin' In The Wind
+----
+How many roads must a man walk down
+Before you call him a man?
+Yes, and how many seas must a white dove sail
+Before she sleeps in the sand?
+Yes, and how many times must the cannonballs fly
+Before they're forever banned?
+The answer, my friend, is blowing in the wind
+The answer is blowing in the wind
+
+Yes, how many years can a mountain exist
+Before it is washed to the sea?
+Yes, and how many years can some people exist
+Before they're allowed to be free?
+Yes, and how many times can a man turn his head
+And pretend that he just doesn't see?
+The answer, my friend, is blowing in the wind
+The answer is blowing in the wind
+
+Yes, How many times must a man look up
+Before he can see the sky?
+Yes, and how many ears must one man have
+Before he can hear people cry?
+Yes, and how many deaths will it take till he knows
+That too many people have died?
+The answer, my friend, is blowing in the wind
+The answer is blowing in the wind
+----
+
+== Los Especialistas
+
+=== Calor y sudor
+
+Los Especialistas - Mundo verbena (2000)
+include::../Lyrics/Los Especialistas/2000 - Mundo verbena/06 Calor y sudor.txt[]
+
+== Cat Stevens
+
+=== Father and Son
+include::../Lyrics/Cat Stevens/1975 - Greatest Hits/09 Father and Son.txt[]
+
+== Gloria Estefan
+
+=== Mi tierra
+Gloria Estefan - Mi tierra (1993)
+include::../Lyrics/Gloria Estefan/1993 - Mi tierra/02 Mi tierra.txt[]
+
+
+== Gipsy Kings
+=== Bamboleo
+Gipsy Kings - Gipsy Kings (1987)
+include::../Lyrics/Gipsy Kings/1987 - Gipsy Kings/01 Bamboleo.txt[]
+
 
 == Moop Mama
 
