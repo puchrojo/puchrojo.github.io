@@ -1,0 +1,6 @@
+=== Lieder 
+
+include::../Lyrics/Moop Mama/2016 - M.O.O.P.topia/02 Die Erfindung des Rades.adoc[]
+include::../Lyrics/Moop Mama/2016 - M.O.O.P.topia/09 Herr der Lage.adoc[]
+include::../Lyrics/Moop Mama/2016 - M.O.O.P.topia/10 Meermenschen.txt[]
+

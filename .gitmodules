@@ -1,0 +1,3 @@
+[submodule "Lyrics"]
+	path = Lyrics
+	url = git@gitlab.com:puchrojo/Lyrics.git

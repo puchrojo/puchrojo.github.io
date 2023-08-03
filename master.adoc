@@ -15,13 +15,17 @@ include::chapters/about.adoc[]
 
 include::chapters/preface.adoc[]
 
+
+include::Lyrics/Luz Casal/2002 - Con otra mirada/03 Pueden ser tantas cosas.txt[]
+
+
 == Lieder Tabelle
 
 include::chapters/Lieder-Tabelle.adoc[]
 
-== First Part
+== Lieder
 
-include::chapters/chapter2.adoc[]
+include::chapters/Lieder.adoc[]
 
 == Second Part
 
