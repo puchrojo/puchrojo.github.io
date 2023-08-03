@@ -1,0 +1,2242 @@
+=== Lieder Tabelle
+
+https://alldocs.app/convert-openoffice-odt-to-asciidoc
+
+Das Liederbuch - Kleiner Katzenjammer Karaoke 2023
+
+Version 0.4.7
+
+03.08.2023
+
+image:Pictures/10000000000002D0000001939129F1E1605F34AB.jpg[image,width=642,height=359]
+
+== [#anchor]####Lieder Tabelle
+
+[cols=",,,,"]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|17 Hippies
+|Adieu
+|https://open.spotify.com/track/1pQag4JkgUGiRs8INXTZDA
+|https://www.youtube.com/watch?v=USO1DPxtfRQ
+|https://www.musixmatch.com/lyrics/17-Hippies/Adieu
+
+|Amaral
+|Voy a acabar contigo
+|https://open.spotify.com/track/2YgpiCrCkZIj6EwQIiiBdT
+|https://www.youtube.com/watch?v=FakK4w_oaIc
+|
+
+|Amparo Velasco “La Negra”
+|La seguridad
+|https://open.spotify.com/track/6MSEb1zTAywM5YGgK6ixRh
+|https://www.youtube.com/watch?v=f5S8L_Lit4o
+|
+
+|Ana Belén
+|Contamíname
+|https://open.spotify.com/track/19TYg1tkwLpOH2mxyE6X7u
+|https://www.youtube.com/watch?v=WQ5ufDdmH2s
+ https://www.youtube.com/watch?v=GwvxMRiqb1w (404)
+|https://www.musixmatch.com/lyrics/245975/6938273
+
+.2+|Anna Depensbuch
+|Alles über Bord
+|https://open.spotify.com/track/2Cscy4zCrzjSWhTRUxFC4z (nicht sync)
+|https://youtu.be/mkvm5nCkqVY
+|
+
+|Du und die Nacht
+|https://open.spotify.com/track/0C14cc5AeSncz8ATuk8wUh
+|https://youtu.be/V9dY3ndAq0o
+|
+
+|Bob Dylan
+|Blowin' In The Wind
+|https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E
+|https://www.youtube.com/watch?v=RsjiSfAmEeo
+|
+
+|Buika
+|No habrá nadie en el mundo
+|https://open.spotify.com/track/0MTWY6gyLmeEHyYJGqM5hU
+|https://www.youtube.com/watch?v=7g8Ru5F4Vvo
+|https://www.musixmatch.com/lyrics/Buika/No-Habra-Nadie-En-El-Mundo
+
+|La Cabra Mecanica & María Jiménez
+|La Lista De La Compra
+|https://open.spotify.com/track/0KqsqICO0YT8wWjKaPvVIt (no text)
+|https://www.youtube.com/watch?v=GYHIKib4KqI
+|https://www.musixmatch.com/lyrics/La-Cabra-Mec%C3%A1nica/La-lista-de-la-compra
+
+|Caetano Veloso
+|Cucurrucucú Paloma
+|https://open.spotify.com/track/4GEJx7GJWxsDczLGly7KUX
+|https://www.youtube.com/watch?v=1qjot_FFIZE (sin letra)
+|https://www.musixmatch.com/lyrics/Caetano-Veloso/Cucurrucuc%C3%BA-Paloma
+
+|Carmen París
+|No me vas a embolicar
+|https://open.spotify.com/track/5ygVy6F2Htn3mYnnlTndmL
+|https://youtu.be/xzj9UwekfDg
+|
+
+|Cat Stevens
+|Father and Son
+|https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA?si=e6823d60447e41d8[https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA]
+|https://www.youtube.com/watch?v=yERildSsWxM
+|
+
+|Celtas Cortos
+|Amor al vino
+|https://open.spotify.com/track/7qMJ7IBjdGyl5vzWpkFqM4
+|https://www.youtube.com/watch?v=Vc6rck8S4Rs
+|
+
+|Coque Malla, Anni B Sweet
+|No puedo vivir sin ti (feat. Anni B Sweet)
+|https://open.spotify.com/track/0Xfv1QCPBEPdmSbxsuaX6a
+|
+|
+
+|Depedro, Luz Casal
+|Te sigo soñando
+|https://open.spotify.com/track/1wyUCUuGYv9MLLL171n8mU (kein Text)
+|https://youtu.be/37aQ5jzXKE8
+|https://www.musixmatch.com/lyrics/DePedro-feat-Luz-Casal/Te-sigo-soñando-En-Estudio-Uno[https://www.musixmatch.com/lyrics/DePedro-feat-Luz-Casal/Te-sigo-so%C3%B1ando-En-Estudio-Uno]
+
+.3+|Dota Kehr
+|Grenzen
+|https://open.spotify.com/track/56tnCUAec2vaY6N5IBj3L7
+|https://www.youtube.com/watch?v=txanYnZgsWI
+|
+
+|Vergiftet
+|https://open.spotify.com/track/3g4IMMkVfWFgau3HXxMPvw (kein Sync)
+|https://www.youtube.com/watch?v=xWjlcTkuRV4
+|https://www.musixmatch.com/lyrics/Dota-Kehr/Vergiftet
+
+|Warten auf Wind
+|https://open.spotify.com/track/5FMVcUejjXsPJqcmtHV1x8
+|https://www.youtube.com/watch?v=IMTsK5HaUGE
+|
+
+|Ed Sheeran
+|Shape of you
+|https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+|https://www.youtube.com/watch?v=TRkIdcuXZQg
+|
+
+|Emilia
+|Big Big World
+|https://open.spotify.com/track/5I4xjdu4DeKUNMiufzQLoA
+|https://www.youtube.com/watch?v=iN__Dxj5Xb4
+|https://www.musixmatch.com/lyrics/Emilia/Big-Big-World/translation/spanish (sync)
+
+|Los Especialistas
+|Calor y sudor
+|no-Spotify
+|https://www.youtube.com/watch?v=UE2yb7GCe9Q
+|
+
+|Fito & Fitipaldis
+|La casa por el tejado
+|https://open.spotify.com/track/428cFrawSqeLoyooQjAW9d
+|https://www.youtube.com/watch?v=8qz8FqmTsJY (sin letra)
+|
+
+|Gloria Stefan
+|Mi Tierra
+|https://open.spotify.com/track/7JUcTavASbRqsjc6cDCSOw
+| https://www.youtube.com/watch?v=vgBwZDv9EN0 (Karaoke Version)
+  https://www.youtube.com/watch?v=6shTO_0uiY0 (Ohne Text)
+|
+
+|The Gipsy Kings
+|Bamboleo (Caballo Viejo)
+|https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9
+|https://www.youtube.com/watch?v=rtd54iXvZdM
+|
+
+|Haydée Milanés
+|La música
+|https://open.spotify.com/intl-de/track/7v9OeWMd8ukbX6axAdp9h2
+|
+|
+
+|ile
+|Tu Rumba
+|https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4 (kein Text)
+|https://youtube.com/watch?v=pk3YzgoFizg
+|https://www.musixmatch.com/lyrics/Ile/Tu-Rumba
+
+|Javier Limon & La Shica
+|Agua Misteriosa
+|https://open.spotify.com/track/1NBX0fNoIYjSYBmAtO24NT
+|https://www.youtube.com/watch?v=d9TYtTLtNCw (Ohne Untertitel)
+|https://www.musixmatch.com/lyrics/Javier-Limón-feat-La-Shica/Agua-Misteriosa-2
+
+|Joan Baez
+|Donna Donna
+|https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI
+|https://www.youtube.com/watch?v=gQ5Jl4wGNG4
+|
+
+.3+|Joaquín Sabina
+|Calle Melancolía
+|https://open.spotify.com/track/5mRyD7afJkGJBaTW9voAiU (kein Text)
+|https://www.youtube.com/watch?v=UuXub_WyBMA
+|https://www.musixmatch.com/lyrics/Joaquín-Sabina/Calle-melancolía
+
+|Cerrado por derribo // Nos Sobran Los Motivos
+|https://open.spotify.com/track/7g6kvDDj1JF32DWrsAnOlk?si=c37729f61f2547ff[https://open.spotify.com/track/7g6kvDDj1JF32DWrsAnOlk]
+|https://www.youtube.com/watch?v=2WySlCU3X7o
+|https://www.musixmatch.com/lyrics/Joaquín-Sabina/Nos-sobran-los-motivos[https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Nos-sobran-los-motivos]
+
+|Con la frente marchita
+|https://open.spotify.com/track/1iRf1TGSCLaxU7O7iBLiuV
+|https://www.youtube.com/watch?v=otZQWtw7H7s
+|https://www.musixmatch.com/lyrics/Joaquín-Sabina/Con-la-frente-marchita[https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Con-la-frente-marchita]
+
+.2+|Joan Manuel Serrat
+|La mujer que yo quiero
+|https://open.spotify.com/track/7woFqgcnG5w6xBGHC2wlXY
+|https://www.youtube.com/watch?v=NjkoZsoxNTs
+|
+
+|La Saeta
+|https://open.spotify.com/track/5d6NoRmMBfFoNRjrWKIPBf
+|https://www.youtube.com/watch?v=ygsM7cqGhDk
+|
+
+|Julieta Venegas
+|Mírame Bien
+|https://open.spotify.com/track/3sYG5WC07cPshukbXMsjTz (kein sync) (26.03.23 sync in musixmatch)
+|https://youtube.com/watch?v=tC_p0KJCNow (sin Letra)
+|https://www.musixmatch.com/lyrics/Julieta-Venegas/Mírame-bien
+
+|Julieta Venegas & Marisa Monte
+|Ilusion
+|https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3
+|https://youtube.com/watch?v=PBTlBtORhxE
+|
+
+|Karen Souza
+|Creep
+|https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu (kein sync)
+|https://youtu.be/rdR86BErOvY
+| 
+
+|Kevin Johansen
+|Timing
+|https://open.spotify.com/track/4AN91ebIhqSWfR6uKFGppM (kein sync)
+|https://youtu.be/w7DP0BiiHUQ
+|
+
+|Lenine & Julieta Venegas
+|Miedo
+|???
+|https://www.youtube.com/watch?v=FU-kTWUI8wI
+|https://www.musixmatch.com/lyrics/Lénine/Miedo-feat-Julieta-venegas/translation/spanish 
+
+.2+|Luz Casal
+|Miénteme al oído
+|https://open.spotify.com/track/04huFyrSsqCyFl0Lcjks0c
+|https://www.youtube.com/watch?v=uplEZ26SKyo
+|
+
+|No Me Importa Nada
+|https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol
+|https://youtu.be/sGGu9IKBGhw
+| 
+
+|Luz Casal & Carlos Nuñez
+|Negra Sombra
+|https://open.spotify.com/track/2osl3KlNyd4JszHsikFBli
+|https://www.youtube.com/watch?v=fAtKv8AvO5k
+|https://www.musixmatch.com/lyrics/Alejandro-Amenábar-con-Carlos-Núñez-y-Luz-Casal/Negra-sombra
+
+|Malú
+|A Tu Vera
+|https://open.spotify.com/track/4Qf1tEL04mFY4ZKfpjU36G
+|https://www.youtube.com/watch?v=3JlEfmlZ93E
+|https://www.musixmatch.com/lyrics/Malu/A-Tu-Vera-En-Directo
+
+|Mara
+|Busker
+|https://open.spotify.com/track/6mIomwF4fwnhTsbHD2TGm0 (Sin Letra) (26.03.23 sync in musixmatch)
+|https://www.youtube.com/watch?v=nbMczRv4TNc
+|
+
+|Marcel Brell & Alin Coen
+|Wo die Liebe hinfällt
+|https://open.spotify.com/track/4eBvsJvUAC7n9VshoN3Sja
+|https://youtu.be/h4kHIxeREXM
+|
+
+|Marina Rossell, Carlos Cano
+|De qué hablas, habanera
+|https://open.spotify.com/track/0pHcX44RPlwHJKfURIpnDM
+|https://www.youtube.com/watch?v=hmqmzdMCCAc
+|
+
+.3+|Moop Mama
+|Die Erfindung des Rades
+|https://open.spotify.com/track/5tjfPIUPqUfxhIkzRkfiz1
+|https://www.youtube.com/watch?v=02hAO3wCfdE
+|https://www.musixmatch.com/lyrics/Moop-Mama/Die-Erfindung-des-Rades
+
+|Herr der Lage |https://open.spotify.com/track/3ewcrtFhTHZG13WhCOJya5
+|https://youtu.be/1HW51TF-wSc
+|
+
+|Meermenschen
+|https://open.spotify.com/track/7mOH3xUZ1Bf0qLFjsihb42
+|https://www.youtube.com/watch?v=cac44EK8zMo
+|https://www.musixmatch.com/lyrics/Moop-Mama/Meermenschen
+
+|Morgan
+|Home
+|https://open.spotify.com/track/0o8PHzA5OU3x8rJDCENsoP
+|https://youtube.com/watch?v=sWoGhBAm25I&feature=shares
+|
+
+|No Te Va Gustar ft. Julieta Venegas
+|Chau
+|https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P
+|https://youtu.be/umELwiR59IE
+|
+
+|Orishas
+|Mani
+|https://open.spotify.com/track/4lENGRYjJNjTWqjdInfBjG
+|https://youtu.be/k_evIjglfa0
+|
+
+|Roberta Flack
+|Killing Me Softly
+|https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob
+|https://www.youtube.com/watch?v=7cWnz8sn11Y
+|https://www.musixmatch.com/lyrics/Roberta-Flack/Killing-Me-Softly-With-His-Song
+
+.5+|Rocío Márquez
+|Fandangos
+|
+|https://youtu.be/tSFZh15fiCs
+|
+
+|Fandangos de Huelva y Naturales
+|
+|https://youtu.be/-LWvXTG5Yj8
+|
+
+|Quiero
+|https://open.spotify.com/track/61jsnmJWtKEIJ3vIFnkCTL
+|https://youtu.be/EJIFwQqG59Q
+|
+
+|Luz De Luna
+|https://open.spotify.com/track/2Dc0Y8z6G7DrN7N2bD8Kts
+|https://youtu.be/EnU6tmagDvU
+|
+
+|Me Quedo Contigo
+|https://open.spotify.com/track/0OialMUMAfHypBZD1X8MPN
+|https://youtu.be/6H4zOD63aF0
+|
+
+|Rocío Márquez & Fahmi Alqhai
+|Angelitos Negros (Directo)
+|https://open.spotify.com/track/3Dp2wOeVqkT4zav2jHmJBM
+|https://youtu.be/GZDkY-ncSEE
+|
+
+.2+|Rosalía
+|Catalina
+|https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj
+|https://www.youtube.com/watch?v=0OMwDZUWl5g (Letras mit Musicmatch Plugin)
+|
+
+|Malamente (Cap.1: Augurio)
+|https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK
+|https://www.youtube.com/watch?v=Rht7rBHuXW8 (Letras mit Musicmatch Plugin)
+ https://www.youtube.com/watch?v=T5QjZCBAITQ Letra
+|
+
+|Sarah Lesch
+|Testament
+|https://open.spotify.com/track/6bxvyI1oDV7vOiFGFQ4aND
+|https://www.youtube.com/watch?v=XBlw2nnGSLU
+|
+
+|La Shica
+|Con Dinamita
+|https://open.spotify.com/intl-de/track/2LCljNJPyYkIzORJzDszs6
+|https://www.youtube.com/watch?v=rHs_yiUBo4k (Ohne Text)
+|
+
+.3+|Silvio Rodríguez
+|Aceitunas
+|https://open.spotify.com/track/4dVsyxRAl5zdYz8jddKplg
+|https://youtu.be/YUpiUboPZ1g
+|
+|La gota de rocio
+|https://open.spotify.com/track/3oQni34QAan69iVgNDq0bV
+|https://www.youtube.com/watch?v=kzosqgIXdz0
+|
+|Y Mariana
+|https://open.spotify.com/track/6ATlbKj9xCME2tnTuVSg4d
+|https://youtu.be/cwkex5O4gNE
+|
+
+.2+|Tipps für Wilhelm
+|Bolivien
+|https://open.spotify.com/track/6swFBYf8lN8rSd0KYGNnNI (sin letra)
+|https://www.youtube.com/watch?v=1GtSINe9l60
+|https://lyricstranslate.com/de/tipps-für-wilhelm-bolivien-lyrics.html
+|Schöne Zeiten
+|https://open.spotify.com/track/0WYhwfFHAsFmgcXKWTiN2a
+|https://www.youtube.com/watch?v=kd9Bq5ENwIM
+|
+
+|The Tokens
+|The Lion Sleeps Tonight Lyrics
+|https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi
+|https://www.youtube.com/watch?v=399syDv0bBM
+|
+
+|Travis Birds
+|Madre Conciencia
+|https://open.spotify.com/track/6Dlw3N4waHiTKEpypMex5i
+|https://youtu.be/Bwtl9IRZveE
+|
+
+|El Último de la Fila
+|No me acostumbro
+|https://open.spotify.com/track/6BoY3FM0VbwlMypL49z0aZ
+|https://www.youtube.com/watch?v=us5wQxRUDL4
+|
+
+|La Vela Puerca
+|La Calle Adicción
+|https://open.spotify.com/track/0Fp5Zs2KZwiuvA58kz5kYg
+|https://youtube.com/watch?v=IptWyblnMbk&feature=shares
+|https://www.musixmatch.com/lyrics/La-Vela-Puerca/La-Calle-Adicción[https://www.musixmatch.com/lyrics/La-Vela-Puerca/La-Calle-Adicci%C3%B3n]
+
+|Vetusta Morla
+|Lo que te hace grande
+|https://open.spotify.com/track/6w7YytwAzgC6e9NbyHsPgP
+|https://www.youtube.com/watch?v=4J6wHXbsSRo (Letra)
+ https://www.youtube.com/watch?v=BtU-PrWknWA (Vidoclip oficial)
+|https://www.musixmatch.com/lyrics/Vetusta-Morla/Lo-que-te-hace-grande
+
+.2+|Zaz
+|Éblouie par la nuit
+|https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU
+|https://www.youtube.com/watch?v=Y4uCoHndyi4
+|https://www.musixmatch.com/lyrics/ZAZ/Éblouie-par-la-nuit[https://www.musixmatch.com/lyrics/ZAZ/%C3%89blouie-par-la-nuit]
+|Port Coton |https://open.spotify.com/track/1rQPdB1dROvBLwzI7AyvPW
+|https://www.youtube.com/watch?v=lY-LrolYt08
+|https://www.musixmatch.com/lyrics/ZAZ/Port-coton
+|
+|===
+
+
+
+== [#anchor-2]####Notas
+
+Links:
+
+calibre converter → keine Kapitel bis jetzt
+
+http://code.google.com/p/sigil/
+
+https://sigil-ebook.com/ (2023)
+
+http://extensions.services.openoffice.org/de/project/epubGenerator[EPUB
+Generator] (http://extensions.services.openoffice.org/node/3902)
+
+Alfa, bei mir nicht funktioniert, deinstallieren
+
+Bearbeiten:
+
+http://www.ratschlag24.com/index.php/eigene-ebooks-fuer-das-ipad-erstellen_000069763/http://www.ratschlag24.com/index.php/eigene-ebooks-fuer-das-ipad-erstellen_000069763/
+
+Aktuel wird mit Write2ePub Extension von OpenOffice erstellt:
+
+http://extensions.services.openoffice.org/en/project/Writer2ePub
+
+Wobei am GalaxyTab als pdf mit ezPDF Reader am besten zu lesen ist,
+wegen die Inhaltsverzeichnisse.
+
+----------------------------------
+
+2023
+
+Neuer Lieder mit ♪ für die Pausen, das kann man beser lesen, siehe:
+
+https://open.spotify.com/track/270ieNCOt945nOdUQubFI5
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Disney's Frozen |Let It Go
+|https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz a|
+https://www.youtube.com/watch?v=L0MK7qz13bU
+
+a|
+English
+
+https://www.musixmatch.com/lyrics/Idina-Menzel/Let-It-Go
+
+| | | |https://www.youtube.com/watch?v=OC83NA5tAGE |Multi-Language Full
+Sequence (25 Languages)
+
+| | | |https://www.youtube.com/watch?v=eLj7lEdoDIw |Multi-Language Full
+Sequence (40 Languages)
+
+| | |
+|https://www.youtube.com/watch?v=qiFYQJs0mJ8[https://www.youtube.]https://www.youtube.com/watch?v=qiFYQJs0mJ8[com/watch?v=qiFYQJs0mJ8]
+|Español con subtitulos en ingles y español
+
+| | | | |
+|===
+
+== [#anchor-3]####17 Hippies
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|17 Hippies |Adieu
+|https://open.spotify.com/track/1pQag4JkgUGiRs8INXTZDA
+|https://www.youtube.com/watch?v=USO1DPxtfRQ
+|https://www.musixmatch.com/lyrics/17-Hippies/Adieu
+|===
+
+== [#anchor-4]####Amaral
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Amaral |Voy a acabar contigo
+|https://open.spotify.com/track/2YgpiCrCkZIj6EwQIiiBdT
+|https://www.youtube.com/watch?v=FakK4w_oaIc |
+|===
+
+== [#anchor-5]####Amparo Velasco “La Negra”
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Amparo Velasco “La Negra” |La seguridad
+|https://open.spotify.com/track/6MSEb1zTAywM5YGgK6ixRh
+|https://www.youtube.com/watch?v=f5S8L_Lit4o |
+|===
+
+== [#anchor-6]####Ana Belén
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Ana Belén |Contamíname
+|https://open.spotify.com/track/19TYg1tkwLpOH2mxyE6X7u?si=b6e7a6919e8a433e[https://open.spotify.com/track/19TYg1tkwLpOH2mxyE6X7u]
+a|
+https://www.youtube.com/watch?v=WQ5ufDdmH2s
+
+https://www.youtube.com/watch?v=GwvxMRiqb1w (404)
+
+|https://www.musixmatch.com/lyrics/245975/6938273
+
+|Ana Belén |Contamíname | |https://www.youtube.com/watch?v=GwvxMRiqb1w[]
+|https://www.musixmatch.com/lyrics/245975/6938273
+|===
+
+=== [#anchor-7]####Contamíname
+
+(Ana Belén y Víctor Manuel – Contamíname)
+
+https://www.youtube.com/watch?v=GwvxMRiqb1w
+
+Cuéntame el cuento del árbol dátil de los desiertos
+
+De las mezquitas de tus abuelos
+
+Dame los ritmos de las darbukas y los secretos
+
+Que hay en los libros que yo no leo
+
+Contamíname pero no con el humo que asfixia el aire
+
+Ven, pero sí con tus ojos y con tus bailes
+
+Ven, pero no con la rabia y los malos sueños, ven
+
+Pero sí con los labios que anuncian besos
+
+Contamíname, mézclate conmigo
+
+Que bajo mi rama tendrás abrigo
+
+Contamíname, mézclate conmigo
+
+Que bajo mi rama tendrás abrigo
+
+Cuéntame el cuento de las cadenas que te trajeron
+
+De los tratados y los viajeros
+
+Dame los ritmos de los tambores y los voceros
+
+Del barrio antiguo y del barrio nuevo
+
+Contamíname pero no con el humo que asfixia el aire
+
+Ven, pero sí con tus ojos y con tus bailes
+
+Ven, pero no con la rabia y los malos sueños
+
+Ven, pero sí con los labios que anuncian besos
+
+Contamíname, mézclate conmigo
+
+Que bajo mi rama tendrás abrigo
+
+Contamíname, mézclate conmigo
+
+Que bajo mi rama tendrás abrigo
+
+Cuéntame el cuento de los que nunca se descubrieron
+
+Del río verde y de los boleros
+
+Dame los ritmos de los buzuquis los ojos negros
+
+La danza inquieta del hechicero
+
+Contamíname pero no con el humo que asfixia el aire
+
+Ven, pero sí con tus ojos y con tus bailes
+
+Ven, pero no con la rabia y los malos sueños
+
+Ven, pero sí con los labios que anuncian besos
+
+Contamíname, mézclate conmigo
+
+Que bajo mi rama tendrás abrigo
+
+Contamíname, mézclate conmigo
+
+Que bajo mi rama tendrás abrigo
+
+Contamíname, mézclate conmigo
+
+Que bajo mi rama tendrás abrigo
+
+Contamíname, mézclate conmigo
+
+== [#anchor-8]####Anna Depensbuch
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Anna Depensbuch |Alles über Bord
+|https://open.spotify.com/track/2Cscy4zCrzjSWhTRUxFC4z
+|https://youtu.be/mkvm5nCkqVY |
+
+|Du und die Nacht |https://open.spotify.com/track/0C14cc5AeSncz8ATuk8wUh
+|https://youtu.be/V9dY3ndAq0o | |
+|===
+
+== [#anchor-9]####Bob Dylan
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|[#anchor-10]####Bob Dylan |Blowin' In The Wind
+|https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E
+|https://www.youtube.com/watch?v=RsjiSfAmEeo |
+|===
+
+=== [#anchor-11]####Blowin' In The Wind
+
+https://www.youtube.com/watch?v=RsjiSfAmEeo
+
+How many roads must a man walk down
+
+Before you call him a man?
+
+Yes, and how many seas must a white dove sail
+
+Before she sleeps in the sand?
+
+Yes, and how many times must the cannonballs fly
+
+Before they're forever banned?
+
+The answer, my friend, is blowing in the wind
+
+The answer is blowing in the wind
+
+Yes, how many years can a mountain exist
+
+Before it is washed to the sea?
+
+Yes, and how many years can some people exist
+
+Before they're allowed to be free?
+
+Yes, and how many times can a man turn his head
+
+And pretend that he just doesn't see?
+
+The answer, my friend, is blowing in the wind
+
+The answer is blowing in the wind
+
+Yes, How many times must a man look up
+
+Before he can see the sky?
+
+Yes, and how many ears must one man have
+
+Before he can hear people cry?
+
+Yes, and how many deaths will it take till he knows
+
+That too many people have died?
+
+The answer, my friend, is blowing in the wind
+
+The answer is blowing in the wind
+
+== [#anchor-12]####Depedro
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+a|
+Depedro
+
+Luz Casal
+
+|Te sigo soñando |https://open.spotify.com/track/1wyUCUuGYv9MLLL171n8mU
+|https://youtu.be/37aQ5jzXKE8 |
+|===
+
+== [#anchor-13]####Dota Kehr
+
+[cols=",,,,",]
+|===
+|Dota Kehr |Grenzen
+|https://open.spotify.com/track/56tnCUAec2vaY6N5IBj3L7
+|https://www.youtube.com/watch?v=txanYnZgsWI |
+
+|Warten auf Wind |https://open.spotify.com/track/5FMVcUejjXsPJqcmtHV1x8
+|https://www.youtube.com/watch?v=IMTsK5HaUGE | |
+|===
+
+== [#anchor-14]####Ed Sheeran
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Ed Sheeran |Shape of you
+|https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+|https://www.youtube.com/watch?v=TRkIdcuXZQg |
+|===
+
+== [#anchor-15]####Emilia
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Emilia |Big Big World
+|https://open.spotify.com/track/5I4xjdu4DeKUNMiufzQLoA
+|https://www.youtube.com/watch?v=iN__Dxj5Xb4
+|https://www.musixmatch.com/lyrics/Emilia/Big-Big-World/translation/spanish
+|===
+
+== [#anchor-16]####Los Especialistas
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Los Especialistas |Calor y sudor |no-Spotify
+|https://www.youtube.com/watch?v=UE2yb7GCe9Q |
+|===
+
+=== [#anchor-17]####Calor y sudor 
+
+(Los Especialistas - - )
+
+https://www.youtube.com/watch?v=UE2yb7GCe9Q
+
+Se que para ti fue un desafío,
+
+y que jamás, me comprendiste el juego.
+
+Olvida lo que ayer no sucedió,
+
+solo lo de hoy, vale la pena.
+
+Cuando me quisiste, no te quise,
+
+que loco estaba, y que ciego.
+
+Tirándote por el suelo,
+
+el corazón, la cabeza y el ego por el suelo.
+
+Si no la vida, sálvame esta noche siempre la duda
+
+de no saber porque. Retazos de amor, un trozo de olor.
+
+ya no queda más, calor y sudor.
+
+He venido en son de primavera,
+
+intentando enmendar lo que paso.
+
+Que solo lo de hoy vale la pena,
+
+olvida lo que ayer si sucedió.
+
+Y dime si te parece tan raro,
+
+verme y no hablar, con el de ayer.
+
+Puede que ahora si lleve la razón,
+
+y haya vuelto para darte el corazón.
+
+Si no la vida, sálvame esta noche siempre la duda
+
+de no saber porque. Retazos de amor, un trozo de olor.
+
+ya no queda más, calor y sudor.
+
+Si no la vida, sálvame esta noche siempre la duda
+
+de no saber porque. Retazos de amor, un trozo de olor.
+
+ya no queda más, calor y sudor.
+
+Si no la vida, sálvame esta noche siempre la duda
+
+de no saber porque. Retazos de amor, un trozo de olor.
+
+ya no queda más, calor y sudor.
+
+== [#anchor-18]####Buika
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Buika |No Habrá Nadie En El Mundo
+|https://open.spotify.com/track/0MTWY6gyLmeEHyYJGqM5hU
+|https://www.youtube.com/watch?v=7g8Ru5F4Vvo
+|https://www.musixmatch.com/lyrics/Buika/No-Habra-Nadie-En-El-Mundo
+|===
+
+== [#anchor-19]####La Cabra Mecanica 
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+a|
+La Cabra Mecanica &
+
+María Jiménez
+
+|La Lista De La Compra a|
+https://open.spotify.com/track/0KqsqICO0YT8wWjKaPvVIt
+
+(no sync)
+
+|https://www.youtube.com/watch?v=GYHIKib4KqI |
+|===
+
+== [#anchor-20]####Caetano Veloso
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Caetano Veloso |Cucurrucucú Paloma
+|https://open.spotify.com/track/4GEJx7GJWxsDczLGly7KUX a|
+https://www.youtube.com/watch?v=1qjot_FFIZE
+
+(sin letra)
+
+|
+|===
+
+== [#anchor-21]####Carmen Par**ís**
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Carmen París |No me vas a embolicar
+|https://open.spotify.com/track/5ygVy6F2Htn3mYnnlTndmL
+|https://youtu.be/xzj9UwekfDg |
+|===
+
+== [#anchor-22]####Cat Stevens
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Cat Stevens |Father and Son
+|https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA?si=e6823d60447e41d8[https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA]
+|https://www.youtube.com/watch?v=yERildSsWxM |
+|===
+
+=== [#anchor-23]####Father and Son
+
+https://www.youtube.com/watch?v=yERildSsWxM
+
+It's not time to make a change
+
+Just relax, take it easy
+
+You're still young, that's your fault
+
+There's so much you have to know
+
+Find a girl, settle down
+
+If you want you can marry
+
+Look at me, I am old, but I'm happy
+
+I was once like you are now, and I know that it's not easy
+
+To be calm when you've found something going on
+
+But take your time, think a lot
+
+Why, think of everything you've got
+
+For you will still be here tomorrow
+
+But your dreams may not
+
+How can I try to explain
+
+Cause when I do he turns away again
+
+It's always been the same, same old story
+
+From the moment I could talk I was ordered to listen
+
+Now there's a way and I know that I have to go away
+
+I know I have to go
+
+It's not time to make a change
+
+Just sit down, take it slowly
+
+You're still young, that's your fault
+
+There's so much you have to go through
+
+Find a girl, settle down
+
+If you want, you can marry
+
+Look at me, I am old, but I'm happy
+
+All the times that I cried
+
+Keeping all the things I knew inside
+
+It's hard, but it's harder to ignore it
+
+If they were right, I'd agree
+
+But it's them they know not me
+
+Now there's a way and I know that I have to go away
+
+I know I have to go
+
+____
+Songwriters: Yusuf Islam +
+Father & Son lyrics © Sony/ATV Music Publishing LLC, The Bicycle Music
+Company +
+Artist: Cat Stevens +
+Album: Tea for the Tillerman +
+Released: 1970 +
+Genres: Singer-songwriter, Pop
+____
+
+== [#anchor-24]####Celtas Cortos
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Celtas Cortos |Amor al vino
+|https://open.spotify.com/track/7qMJ7IBjdGyl5vzWpkFqM4
+|https://www.youtube.com/watch?v=Vc6rck8S4Rs |
+|===
+
+== [#anchor-25]####Coque Malla
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Coque Malla +
+Anni B Sweet |No puedo vivir sin ti (feat. Anni B Sweet)
+|https://open.spotify.com/track/0Xfv1QCPBEPdmSbxsuaX6a?si=f63852c166cd4dfa[https://open.spotify.com/track/0Xfv1QCPBEPdmSbxsuaX6a]
+| |
+|===
+
+=== 
+
+== [#anchor-26]####Fito & Fitipaldis
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Fito & Fitipaldis |La casa por el tejado
+|https://open.spotify.com/track/428cFrawSqeLoyooQjAW9d
+|https://www.youtube.com/watch?v=8qz8FqmTsJY (sin letra) |
+|===
+
+== [#anchor-27]####Gloria Estefan
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Gloria Stefan |Mi Tierra
+|https://open.spotify.com/track/7JUcTavASbRqsjc6cDCSOw?si=29428e32c7594966[https://open.spotify.com/track/7JUcTavASbRqsjc6cDCSOw]
+a|
+https://www.youtube.com/watch?v=vgBwZDv9EN0 (Karaoke Version)
+
+https://www.youtube.com/watch?v=6shTO_0uiY0 (Ohne Text)
+
+|
+|===
+
+=== [#anchor-28]####Mi Tierra
+
+(Gloria Stefan – Mi Tierra – 1993)
+
+https://www.youtube.com/watch?v=vgBwZDv9EN0 (Karaoke Version)
+
+https://www.youtube.com/watch?v=6shTO_0uiY0 (Ohne Text)
+
+De mi tierra bella, de mi tierra santa
+
+Oigo ese grito de los tambores
+
+Y los timbales al cumbanchar
+
+Y ese pregón que canta un hermano
+
+Que de su tierra vive lejano
+
+Y que el recuerdo le hace llorar
+
+Una canción que vive entonando
+
+De su dolor de su propio llanto
+
+Y se le escucha penar
+
+La tierra te duele, la tierra te da
+
+En medio del alma, cuando tú no estás
+
+La tierra te empuja de raíz y cal
+
+La tierra suspira si no te ve más
+
+La tierra donde naciste no
+
+La puedes olvidar, porque tiene tus raíces
+
+Y lo que dejas atrás
+
+Siguen los pregones, la melancolía
+
+Y cada noche junto a la luna
+
+Sigue el güajiro entonando el son
+
+Y cada calle que va a mi pueblo
+
+Tiene un quejido, tiene un lamento
+
+Tiene nostalgia como su voz
+
+Y esa canción que sigue entonando
+
+Corre en la sangre y sigue llegando
+
+Con más fuerza al corazón
+
+Tiene un quejido, mi tierra
+
+Tiene un lamento mi tierra
+
+Nunca la olvido mi tierra
+
+La llevo en mi sentimiento, si señor
+
+Oigo ese grito mi tierra
+
+Vive el recuerdo mi tierra
+
+Corre en mi sangre mi tierra
+
+La llevo por dentro como no
+
+Canto de mi tierra bella y santa
+
+Sufro ese dolor que hay en su alma
+
+Aunque estoy lejos yo la siento
+
+Y un día regreso yo lo sé
+
+== [#anchor-29]####The Gipsy Kings
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|The Gipsy Kings |Bamboleo (Caballo Viejo)
+|https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9?si=a9cd992d1279490b[https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9]
+|https://www.youtube.com/watch?v=rtd54iXvZdM |
+|===
+
+=== [#anchor-30]####Bamboleo (Caballo Viejo)
+
+(The Gipsy Kings )
+
+https://www.youtube.com/watch?v=rtd54iXvZdM
+
+Este amor llega asi manera
+
+no tiene la culpa
+
+caballo le ven sabana
+
+porque muy depreciado
+
+por eso no te perdo'n de llorar
+
+este amor llega asi esta manera
+
+no tiene la culpa
+
+amor de comprementa
+
+amor del mes pasado
+
+bembele, bembele, bembele,
+
+bem, bembele, bembele
+
+bamboleo, bambolea
+
+porque mi vida, yo la prefiero vivir asi
+
+bamboleo, bambolea
+
+porque mi vida, yo la prefiero vivir asi
+
+No tiene pardon de dios
+
+tu eres mi vida, la fortuna del destino
+
+pero el destino tendressa parados
+
+lo mismo que ayer
+
+lo mismo soy yo
+
+no te encuentro a l'abandon
+
+es imposible no te encuentro de vardad
+
+por eso un dia no cuento si de nada
+
+lo mismo que ayer
+
+yo pienso en ti
+
+Bamboleo, bambolea
+
+porque mi vida, yo la prefiero vivir asi
+
+bamboleo, bambolea
+
+porque mi vida, yo la prefiero vivir asi
+
+Bamboleo, bambolea
+
+porque mi vida, yo la prefiero vivir asi
+
+bamboleo, bambolea
+
+porque mi vida, yo la prefiero vivir asi
+
+Bamboleo, bambolea
+
+porque mi vida, yo la prefiero vivir asi
+
+bamboleo, bambolea
+
+porque mi vida, yo la prefiero vivir asi
+
+Bamboleo, bambolea
+
+porque mi vida, yo la prefiero vivir asi
+
+bamboleo, bambolea
+
+porque mi vida, yo la prefiero vivir asi
+
+== [#anchor-31]####ile
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|ile |Tu Rumba |https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4
+|https://youtube.com/watch?v=pk3YzgoFizg&feature=shares |
+|===
+
+== [#anchor-32]####Javier Limon
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+a|
+Javier Limon &
+
+La Shica
+
+|Agua Misteriosa |https://open.spotify.com/track/1NBX0fNoIYjSYBmAtO24NT
+|https://www.youtube.com/watch?v=d9TYtTLtNCw (Ohne Untertitel)
+|https://www.musixmatch.com/lyrics/Javier-Limón-feat-La-Shica/Agua-Misteriosa-2[https://www.musixmatch.com/lyrics/Javier-Lim%C3%B3n-feat-La-Shica/Agua-Misteriosa-2]
+|===
+
+== [#anchor-33]####Joan Baez
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Joan Baez |Donna Donna
+|https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI?si=c4321187fa3546e3[https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI]
+|https://www.youtube.com/watch?v=gQ5Jl4wGNG4 |
+|===
+
+=== [#anchor-34]####Donna Donna
+
+Donna Donna ~ Joan Baez
+
+https://www.youtube.com/watch?v=gQ5Jl4wGNG4
+
+On a wagon bound for market
+
+There's a calf with a mournful eye
+
+High above him there's a swallow
+
+Winging swiftly through the sky
+
+How the winds are laughing
+
+They laugh with all the their might
+
+Laugh and laugh the whole day through
+
+And half the summer's night
+
+Donna Donna Donna Donna
+
+Donna Donna Donna Don
+
+Donna Donna Donna Donna
+
+Donna Donna Donna Don
+
+"Stop complaining", said the farmer
+
+Who told you a calf to be
+
+Why don't you have wings to fly with
+
+Like the swallow so proud and free
+
+How the winds are laughing
+
+They laugh with all the their might
+
+Laugh and laugh the whole day through
+
+And half the summer's night
+
+Donna Donna Donna Donna
+
+Donna Donna Donna Don
+
+Donna Donna Donna Donna
+
+Donna Donna Donna Don
+
+Calves are easily bound and slaughtered
+
+Never knowing the reason why
+
+But whoever treasures freedom
+
+Like the swallow has learned to fly
+
+How the winds are laughing
+
+They laugh with all the their might
+
+Laugh and laugh the whole day through
+
+And half the summer's night
+
+Donna Donna Donna Donna
+
+Donna Donna Donna Don
+
+Donna Donna Donna Donna
+
+Donna Donna Donna Don
+
+Songwriters: Aaron Zeitlin / Arthur Kevess / Arthur S. Kevess / Sheldon
+Secunda / Sholom 'samuel' Secunda / Teddi Schwartz +
+Donna donna lyrics © Sony/ATV Music Publishing LLC, Imagem Music Inc
+
+== [#anchor-35]####Joaquin Sabina 
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+a|
+
+Joaquín Sabina
+
+|Calle Melancolía |https://open.spotify.com/track/5mRyD7afJkGJBaTW9voAiU
+|https://www.youtube.com/watch?v=UuXub_WyBMA
+|https://www.musixmatch.com/lyrics/Joaquín-Sabina/Calle-melancolía[https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Calle-melancol%C3%ADa]
+
+| |Cerrado por derribo // Nos Sobran Los Motivos
+|https://open.spotify.com/track/7g6kvDDj1JF32DWrsAnOlk?si=c37729f61f2547ff[https://open.spotify.com/track/7g6kvDDj1JF32DWrsAnOlk]
+|https://www.youtube.com/watch?v=2WySlCU3X7o
+|https://www.musixmatch.com/lyrics/Joaquín-Sabina/Nos-sobran-los-motivos[https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Nos-sobran-los-motivos]
+
+| |Con la frente marchita
+|https://open.spotify.com/track/1iRf1TGSCLaxU7O7iBLiuV
+|https://www.youtube.com/watch?v=otZQWtw7H7s
+|https://www.musixmatch.com/lyrics/Joaquín-Sabina/Con-la-frente-marchita[https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Con-la-frente-marchita]
+|===
+
+=== [#anchor-36]####Cerrado por derribo
+
+(Joaquin Sabina - Cerrado por derribo)
+
+Este bálsamo no cura cicatrices
+
+Esta rumbita no sabe enamorar,
+
+este rosario de Cuentas infelices
+
+Calla más de lo que dice
+
+Pero dice la verdad.
+
+Este almacén de sábanas que no arden
+
+Este teléfono sin contestador
+
+La llamaré mañana, hoy se me hizo tarde
+
+Esta forma tan cobarde
+
+De no decirnos que no.
+
+Este contigo, este sin ti tan amargo
+
+Este reloj de arena del arenal
+
+Esta huelga de besos, este letargo
+
+Estos pantalones largos
+
+Para el viejo Peter Pan.
+
+Esta cómoda sin braguitas de Zara
+
+El tour del Soho desde un rojo autobús
+
+Estos ojos que no miden ni comparan
+
+Ni se olvidan de tu cara
+
+Ni se acuerdan de tu cruz.
+
+No abuses de mi inspiración
+
+No acuses a mi corazón
+
+Tan maltrecho y ajado
+
+Que está cerrado por derribo
+
+Por las arrugas de mi voz
+
+Se filtra la desolación
+
+De saber que estos son
+
+los últimos versos que te escribo
+
+Para decir "condios" a los dos nos sobran los Motivos.
+
+Esta paya tan lejos de su gitano
+
+Este penal del Puerto sin vis a vis
+
+Esta guerra civil, este mano a mano
+
+Estos moros y cristianos
+
+Este muro de Berlín.
+
+Este virus que no muere ni nos mata
+
+Esta amnesia en el cielo del paladar
+
+La limusina del polvo por Manhattan
+
+El invierno en Mar de Plata
+
+Los versos del Capitán.
+
+Este hacerse mayor sin delicadeza
+
+Esta espalda mojada de moscatel
+
+Este valle de fábricas de tristeza
+
+Esta espuma de certeza
+
+Esta colmena sin miel.
+
+Este borrón de sangre why de tinta china
+
+Este baño sin rimmel ni nembutal
+
+Estos huesos que vuelven de la oficina
+
+dentro de una gabardina
+
+con manchas de soledad
+
+No abuses de mi inspiración
+
+No acuses a mi corazón
+
+Tan maltrecho y ajado
+
+Que está cerrado por derribo
+
+Por las arrugas de mi voz
+
+Se filtra la desolación
+
+De saber que estos son
+
+los últimos versos que te escribo.
+
+No abuses de mi inspiración
+
+No acuses a mi corazón
+
+Tan maltrecho y ajado
+
+Que está cerrado por derribo
+
+Por las arrugas de mi voz
+
+Se filtra la desolación
+
+De saber que estos son
+
+los últimos versos que te escribo.
+
+Para decir "condios" a los dos nos sobran los Motivos.
+
+== [#anchor-37]####Joan Manuel Serrat
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Joan Manuel Serrat |La mujer que yo quiero
+|https://open.spotify.com/track/7woFqgcnG5w6xBGHC2wlXY
+|https://www.youtube.com/watch?v=NjkoZsoxNTs |
+
+|La Saeta |https://open.spotify.com/track/5d6NoRmMBfFoNRjrWKIPBf
+|https://www.youtube.com/watch?v=ygsM7cqGhDk | |
+|===
+
+=== [#anchor-38]####La mujer que yo quiero
+
+(Joan Manuel Serrat - La mujer que yo quiero) +
+https://www.youtube.com/watch?v=NjkoZsoxNTs
+
+La mujer que yo quiero, no necesita
+
+bañarse cada noche en agua bendita.
+
+Tiene muchos defectos, dice mi madre,
+
+y demasiados huesos, dice mi padre.
+
+Pero ella es más verdad que el pan y la tierra.
+
+Mi amor es un amor de antes de la guerra
+
+para saberlo...
+
+La mujer que yo quiero, no necesita
+
+deshojar cada noche una margarita.
+
+La mujer que yo quiero, es fruta jugosa
+
+prendida en mi alma como si cualquier cosa.
+
+Con ella quieren dármela mis amigos,
+
+y se amargan la vida mis enemigos...
+
+porque sin querer tú, te envuelve su arrullo
+
+y contra su calor, se pierde el orgullo
+
+y la vergüenza...
+
+La mujer que yo quiero, es fruta jugosa
+
+madurando feliz, dulce y vanidosa.
+
+La mujer que yo quiero, me ató a su yunta,
+
+para sembrar la tierra de punta a punta
+
+de un amor que nos habla con voz de sabio
+
+y tiene de mujer la piel y los labios.
+
+Son todos suyos mis compañeros de antes...
+
+Mi perro, mi Scalextric y mis amantes.
+
+¡Pobre Juanito...!
+
+La mujer que yo quiero, me ató a su yunta:
+
+pero, por favor, no se lo digas nunca.
+
+Pero, por favor, no se lo digas nunca...
+
+== [#anchor-39]####Julieta Venegas
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Julieta Venegas |Mírame Bien
+|https://open.spotify.com/track/3sYG5WC07cPshukbXMsjTz |
+https://youtube.com/watch?v=tC_p0KJCNow (sin Letra)
+|https://www.musixmatch.com/lyrics/Julieta-Venegas/Mírame-bien[https://www.musixmatch.com/lyrics/Julieta-Venegas/M%C3%ADrame-bien]
+
+a|
+Julieta Venegas &
+
+Marisa Monte
+
+|Ilusion |https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3
+|https://youtube.com/watch?v=PBTlBtORhxE |
+|===
+
+== [#anchor-40]####Karen Souza
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Karen Souza |Creep
+|https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu
+|https://youtu.be/rdR86BErOvY |
+|===
+
+== [#anchor-41]####Kevin Johansen
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Kevin Johansen |Timing
+|https://open.spotify.com/track/4AN91ebIhqSWfR6uKFGppM
+|https://youtu.be/w7DP0BiiHUQ |
+|===
+
+== [#anchor-42]####Lenine & Julieta Venegas
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+a|
+Lenine &
+
+Julieta Venegas
+
+|Miedo |???
+|https://www.youtube.com/watch?v=FU-kTWUI8wI[*https://www.youtube.com/watch?v=FU-kTWUI8wI*]**
+**
+|https://www.musixmatch.com/lyrics/Lénine/Miedo-feat-Julieta-venegas/translation/spanish[https://www.musixmatch.com/lyrics/L%C3%A9nine/Miedo-feat-Julieta-venegas/translation/spanish]
+|===
+
+== [#anchor-43]####Luz Casal
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+a|
+
+Luz Casal
+
+|Miénteme al oído |https://open.spotify.com/track/04huFyrSsqCyFl0Lcjks0c
+|https://www.youtube.com/watch?v=uplEZ26SKyo |
+
+|No Me Importa Nada
+|https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol
+|https://youtu.be/sGGu9IKBGhw | |
+
+a|
+Luz Casal &
+
+Carlos Nuñez
+
+|Negra Sombra |https://open.spotify.com/track/2osl3KlNyd4JszHsikFBli
+|https://www.youtube.com/watch?v=fAtKv8AvO5k
+|https://www.musixmatch.com/lyrics/Alejandro-Amenábar-con-Carlos-Núñez-y-Luz-Casal/Negra-sombra[https://www.musixmatch.com/lyrics/Alejandro-Amen%C3%A1bar-con-Carlos-N%C3%BA%C3%B1ez-y-Luz-Casal/Negra-sombra]
+|===
+
+== [#anchor-44]####Mal*ú*
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Malú |A Tu Vera |https://open.spotify.com/track/4Qf1tEL04mFY4ZKfpjU36G
+|https://www.youtube.com/watch?v=3JlEfmlZ93E
+|https://www.musixmatch.com/lyrics/Malu/A-Tu-Vera-En-Directo
+|===
+
+== [#anchor-45]####Mara
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Mara |Busker |https://open.spotify.com/track/6mIomwF4fwnhTsbHD2TGm0
+(Sin Letra) |https://www.youtube.com/watch?v=nbMczRv4TNc |
+|===
+
+== [#anchor-46]####Marcel Brell & Alin Coen
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+a|
+Marcel Brell &
+
+Alin Coen
+
+|Wo die Liebe hinfällt
+|https://open.spotify.com/track/4eBvsJvUAC7n9VshoN3Sja
+|https://youtu.be/h4kHIxeREXM |
+|===
+
+== [#anchor-47]####Marina Rossell
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Marina Rossell, Carlos Cano |De qué hablas, habanera
+|https://open.spotify.com/track/0pHcX44RPlwHJKfURIpnDM
+|https://www.youtube.com/watch?v=hmqmzdMCCAc |
+|===
+
+=== [#anchor-48]####De qué hablas, habanera
+
+Marina Rossell, Carlos Cano - De qué hablas, habanera
+
+https://www.youtube.com/watch?v=hmqmzdMCCAc
+
+== [#anchor-49]####Moop Mama
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+a|
+
+Moop Mama
+
+|Die Erfindung des Rades
+|https://open.spotify.com/track/5tjfPIUPqUfxhIkzRkfiz1
+|https://www.youtube.com/watch?v=02hAO3wCfdE[*https://www.youtube.com/watch?v=02hAO3wCfdE*]**
+** |https://www.musixmatch.com/lyrics/Moop-Mama/Die-Erfindung-des-Rades
+
+|Herr der Lage |https://open.spotify.com/track/3ewcrtFhTHZG13WhCOJya5
+|https://youtu.be/1HW51TF-wSc | |
+
+|Meermenschen |https://open.spotify.com/track/7mOH3xUZ1Bf0qLFjsihb42
+|https://www.youtube.com/watch?v=cac44EK8zMo
+|https://www.musixmatch.com/lyrics/Moop-Mama/Meermenschen |
+|===
+
+== [#anchor-50]####Morgan
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Morgan |Home |https://open.spotify.com/track/0o8PHzA5OU3x8rJDCENsoP
+|https://youtube.com/watch?v=sWoGhBAm25I&feature=shares |
+|===
+
+== [#anchor-51]####No Te Va Gustar
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|No Te Va Gustar ft. Julieta Venegas |Chau
+|https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P
+|https://youtu.be/umELwiR59IE |
+|===
+
+== [#anchor-52]####Orishas
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Orishas |Mani |https://open.spotify.com/track/4lENGRYjJNjTWqjdInfBjG
+|https://youtu.be/k_evIjglfa0 |
+|===
+
+== [#anchor-53]####Roberta Flack
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Roberta Flack |Killing Me Softly
+|https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob
+|https://www.youtube.com/watch?v=7cWnz8sn11Y
+|https://www.musixmatch.com/lyrics/Roberta-Flack/Killing-Me-Softly-With-His-Song
+|===
+
+== [#anchor-54]####Roc*ío Márquez*
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+| |Fandangos |--- null --- |https://youtu.be/tSFZh15fiCs |
+
+|Fandangos de Huelva y Naturales |--- null ---
+|https://youtu.be/-LWvXTG5Yj8 | |
+
+|Quiero |https://open.spotify.com/track/61jsnmJWtKEIJ3vIFnkCTL
+|https://youtu.be/EJIFwQqG59Q | |
+
+|Luz De Luna |https://open.spotify.com/track/2Dc0Y8z6G7DrN7N2bD8Kts
+|https://youtu.be/EnU6tmagDvU | |
+
+| |https://open.spotify.com/track/0OialMUMAfHypBZD1X8MPN
+|https://youtu.be/6H4zOD63aF0 | |
+
+|Rocío Márquez & Fahmi Alqhai |
+|https://open.spotify.com/track/3Dp2wOeVqkT4zav2jHmJBM
+|https://youtu.be/GZDkY-ncSEE |
+|===
+
+== [#anchor-55]####Rosalia (Rosalía Vila)
+
+https://es.m.wikipedia.org/wiki/Rosalía_Vila[https://es.m.wikipedia.org/wiki/Rosal%C3%ADa_Vila]
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+a|
+Rosalía
+
+|Catalina |https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj a|
+https://www.youtube.com/watch?v=0OMwDZUWl5g
+
+(Letras mit Musicmatch Plugin)
+
+|
+
+a|
+Rosalia
+
+|Malamente (Cap.1: Augurio)
+|https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK a|
+https://www.youtube.com/watch?v=Rht7rBHuXW8 (Letras mit Musicmatch
+Plugin)
+
+https://www.youtube.com/watch?v=T5QjZCBAITQ Letra
+
+|
+
+| | | | |
+|===
+
+=== [#anchor-56]####Catalina
+
+(Rosalía – Ángeles)
+
+https://www.youtube.com/watch?v=0OMwDZUWl5g (Letras mit Musicmatch
+Plugin)
+
+Quítate de mi presencia que me estás martirizando
+
+Quítate de mi presencia que me estás martirizando
+
+Que a la memoria me trae cosas que estaba olvidando
+
+Y a la memoria me trae cosas que estaba olvidando
+
+Ponme la mano aquí Catalina ponme la mano aquí
+
+Ponme la mano aquí que la tienes fría
+
+Mira que me voy a morir
+
+La china que tenía se fue a Alemania y no ha volvió
+
+La china que tenía se fue a Alemania y no ha volvió
+
+Y a Alemania me voy, y no a divertirme
+
+A tomar un veneno
+
+Yo quiero morirme
+
+Ponme la mano aquí que la tienes fría
+
+Ponme la mano aquí Catalina mía
+
+Mira que me voy a morir
+
+Ponme la mano aquí que la tienes fría
+
+Ponme la mano aquí Catalina mía
+
+Mira que me voy a morir
+
+Mira que me voy a morir
+
+Mira que me voy a morir
+
+Mira que me voy a morir
+
+Manito de mi corazón que bien tu sabrás
+
+Que me estoy muriendo
+
+Y te pido y te encomiendo que llames a un escribano
+
+También a mi primo hermano
+
+Quisiera hacer testamento
+
+Como esos payos con fundamento
+
+Apúnteme usted señor escribano
+
+Apúnteme usted una cortina
+
+Que en por ca'agujero cabe una vecina
+
+Apúnteme usted señor escribano
+
+Apunte un cuadro rompío
+
+Que ya ni dios sabe el santo que ha sido
+
+Apúnteme usted señor escribano
+
+Apúnteme usted señor escribano
+
+Apúnteme usted un olivar
+
+Que el monte ha sembrado y que sembrará
+
+Apúnteme usted señor escribano
+
+Apúnteme usted una escopeta
+
+Que no tiene ya ni cañón ni moqueta
+
+Apúnteme usted señor escribano
+
+=== [#anchor-57]####Malamente (Cap.1: Augurio)
+
+Rosalia
+
+https://www.youtube.com/watch?v=Rht7rBHuXW8 (Letras mit Musicmatch
+Plugin)
+
+https://www.youtube.com/watch?v=T5QjZCBAITQ Letra
+
+Ese cristalito roto
+
+Yo sentí cómo crujía
+
+Antes de caerse al suelo
+
+Ya sabía que se rompía (¡uh!)
+
+Está parpadeando
+
+La luz del descansillo
+
+Una voz en la escalera
+
+Alguien cruzando el pasillo
+
+Malamente (eso es) (así sí)
+
+Malamente (tra, tra)
+
+Mal, muy mal, muy mal, muy mal, muy mal (mira)
+
+Malamente (toma que toma) ('amonó)
+
+Malamente (eso es) (¡'illo!)
+
+Malamente
+
+Mal, muy mal, muy mal, muy mal, muy mal
+
+Malamente (¡uh!)
+
+Se ha puesto la noche rara
+
+Han salí'o luna y estrellas
+
+Me lo dijo esa gitana (¿qué?)
+
+Mejor no salir a verla (no)
+
+Sueño que estoy andando
+
+Por un puente y que la acera (mira, mira, mira, mira)
+
+Cuanto más quiero cruzarlo (¡va!)
+
+Más se mueve y tambalea
+
+Malamente (eso es) (así sí)
+
+Malamente (tra, tra)
+
+Mal, muy mal, muy mal, muy mal, muy mal (mira)
+
+Malamente (toma que toma) ('amonó)
+
+Malamente (eso es) (¡'illo!)
+
+Malamente
+
+Mal, muy mal, muy mal, muy mal, muy mal
+
+Malamente
+
+Aunque no esté bonita
+
+La noche, ¡Undivé!
+
+Voy a salir pa' la calle
+
+En la manita los aros brillando
+
+En mi piel los corales
+
+Me proteja y me salve
+
+Me ilumine y me guarde
+
+Y por delante
+
+No voy a perder ni un minuto en volver a pensarte
+
+Malamente (eso es) (así sí)
+
+Malamente (tra, tra)
+
+Mal, muy mal, muy mal, muy mal, muy mal (mira)
+
+Malamente (toma que toma) ('amono)
+
+Malamente (eso es) (¡'illo!)
+
+Malamente
+
+Mal, muy mal, muy mal, muy mal, muy mal (¡'illo!)
+
+Malamente (Toma que toma)
+
+Malamente (¡'illo!)
+
+Malamente (tra, tra)
+
+Mal, muy mal, muy mal, muy mal, muy mal ('amonó)
+
+Malamente (Toma que toma) ('amonó)
+
+Malamente (eso es)
+
+¡'Illo!
+
+Malamente
+
+Mal, muy mal, muy mal, muy mal, muy mal
+
+Malamente
+
+Songwriters: Rosalía Vila / Pablo Díaz Reixa / Anton Álvarez Alfaro
+
+MALAMENTE (Cap.1: Augurio) lyrics © Warner/Chappell Music, Inc
+
+== [#anchor-58]####Sarah Lesch
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Sarah Lesch |Testament
+|https://open.spotify.com/track/6bxvyI1oDV7vOiFGFQ4aND
+|https://www.youtube.com/watch?v=XBlw2nnGSLU |
+|===
+
+== [#anchor-59]####Silvio Rodr**íquez**
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+a|
+
+Silvio Rodríguez
+
+|Aceitunas |https://open.spotify.com/track/4dVsyxRAl5zdYz8jddKplg
+|https://youtu.be/YUpiUboPZ1g |
+
+|La gota de rocio |https://open.spotify.com/track/3oQni34QAan69iVgNDq0bV
+|https://www.youtube.com/watch?v=kzosqgIXdz0 | |
+
+|Y Mariana |https://open.spotify.com/track/6ATlbKj9xCME2tnTuVSg4d
+|https://youtu.be/cwkex5O4gNE | |
+|===
+
+== [#anchor-60]####Tipps für Wilhelm
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Tipps für Wilhelm |Bolivien
+|https://open.spotify.com/track/6swFBYf8lN8rSd0KYGNnNI (sin letra)
+|https://www.youtube.com/watch?v=1GtSINe9l60[*https://www.youtube.com/watch?v=1GtSINe9l60*]**
+**
+|https://lyricstranslate.com/de/tipps-für-wilhelm-bolivien-lyrics.html[https://lyricstranslate.com/de/tipps-f%C3%BCr-wilhelm-bolivien-lyrics.html]
+
+|Schöne Zeiten |https://open.spotify.com/track/0WYhwfFHAsFmgcXKWTiN2a
+|https://www.youtube.com/watch?v=kd9Bq5ENwIM | |
+|===
+
+== [#anchor-61]####The Tokens
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|The Tokens |The Lion Sleeps Tonight Lyrics
+|https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi
+|https://www.youtube.com/watch?v=399syDv0bBM |
+|===
+
+== [#anchor-62]####Travis Birds
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Travis Birds |Madre Conciencia
+|https://open.spotify.com/track/6Dlw3N4waHiTKEpypMex5i
+|https://youtu.be/Bwtl9IRZveE |
+
+| | | | |
+
+| | | | |
+|===
+
+== [#anchor-63]####El *Último de la Fila*
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|El Último de la Fila |No me acostumbro
+|https://open.spotify.com/track/6BoY3FM0VbwlMypL49z0aZ
+|https://www.youtube.com/watch?v=us5wQxRUDL4 |
+|===
+
+== [#anchor-64]####La Vela Puerca
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|La Vela Puerca |La Calle Adicción
+|https://open.spotify.com/track/0Fp5Zs2KZwiuvA58kz5kYg
+|https://youtube.com/watch?v=IptWyblnMbk&feature=shares
+|https://www.musixmatch.com/lyrics/La-Vela-Puerca/La-Calle-Adicción[https://www.musixmatch.com/lyrics/La-Vela-Puerca/La-Calle-Adicci%C3%B3n]
+|===
+
+=== [#anchor-65]####La Calle Adicción
+
+La Vela Puerca
+
+En una esquina de la calle Adicción +
+choqué de frente contra mi porvenir, +
+y nos quedamos conversando de cómo seguir.
+
+Pasaron horas y empezó a oscurecer +
+y la tertulia se mudó de estación, +
+en la penúltima, un abrazo y adiós, corazón.
+
+Me dijo escuchá, +
+que esto sólo te lo digo una vez, +
+mirar para atrás +
+casi siempre paraliza los pies. +
+No es como jugar, +
+cuando uno solo puede perder, +
+no es como morir, +
+es como nacer.
+
+Anda sabiendo que la vida es así, +
+que la caricia la tenés que ganar, +
+camino a casa medité sobre cómo aflorar.
+
+Se tambaleó todo el tablero después, +
+y cada ficha valoró su lugar, +
+y aquella esquina volvió para hacerme acordar.
+
+Que me dijo escuchá, +
+esto sólo te lo digo una vez, +
+mirar para atrás +
+casi siempre paraliza los pies. +
+No es como jugar, +
+cuando uno solo puede perder, +
+no es como morir, +
+es como nacer.
+
+Y cierto día, con el sol en la piel, +
+abrí la puerta de mi lado feroz +
+y dije, lobo no estás, +
+ya tenés mi perdón.
+
+Le dije escuchá, +
+esto sólo te lo digo una vez, +
+mirar para atrás +
+casi siempre paraliza los pies. +
+No es como jugar, +
+cuando uno solo puede perder, +
+no es cómo morir, +
+es cómo nacer.
+
+== [#anchor-66]####Vetusta Morla
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+|Vetusta Morla |Lo que te hace grande
+|https://open.spotify.com/track/6w7YytwAzgC6e9NbyHsPgP a|
+https://www.youtube.com/watch?v=4J6wHXbsSRo (Letra)
+
+https://www.youtube.com/watch?v=BtU-PrWknWA (Vidoclip oficial)
+
+|https://www.musixmatch.com/lyrics/Vetusta-Morla/Lo-que-te-hace-grande
+|===
+
+== [#anchor-67]####Zaz
+
+[cols=",,,,",]
+|===
+|Autor |Título |Spotify |YouTube |Letra
+
+a|
+
+Zaz
+
+|Éblouie par la nuit
+|https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU
+|https://www.youtube.com/watch?v=Y4uCoHndyi4
+|https://www.musixmatch.com/lyrics/ZAZ/Éblouie-par-la-nuit[https://www.musixmatch.com/lyrics/ZAZ/%C3%89blouie-par-la-nuit]
+
+|Port Coton |https://open.spotify.com/track/1rQPdB1dROvBLwzI7AyvPW
+|https://www.youtube.com/watch?v=lY-LrolYt08
+|https://www.musixmatch.com/lyrics/ZAZ/Port-coton |
+|===
+
