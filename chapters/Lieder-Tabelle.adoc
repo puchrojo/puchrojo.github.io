@@ -302,17 +302,18 @@ Test
 |https://www.youtube.com/watch?v=hmqmzdMCCAc
 |
 
-.3+|Moop Mama
-|Die Erfindung des Rades
+.3+|xref:Moop Mama[Moop Mama]
+|xref:Die Erfindung des Rades[Die Erfindung des Rades]
 |https://open.spotify.com/track/5tjfPIUPqUfxhIkzRkfiz1
 |https://www.youtube.com/watch?v=02hAO3wCfdE
 |https://www.musixmatch.com/lyrics/Moop-Mama/Die-Erfindung-des-Rades
 
-|Herr der Lage |https://open.spotify.com/track/3ewcrtFhTHZG13WhCOJya5
+|xref:Herr der Lage[Herr der Lage]
+|https://open.spotify.com/track/3ewcrtFhTHZG13WhCOJya5
 |https://youtu.be/1HW51TF-wSc
 |
 
-|Meermenschen
+|xref:Meermenschen[Meermenschen]
 |https://open.spotify.com/track/7mOH3xUZ1Bf0qLFjsihb42
 |https://www.youtube.com/watch?v=cac44EK8zMo
 |https://www.musixmatch.com/lyrics/Moop-Mama/Meermenschen
@@ -462,3 +463,6 @@ Test
 |https://www.musixmatch.com/lyrics/ZAZ/Port-coton
 |
 |===
+
+Refer to xref:Lieder.adoc#Level-2[Level-2] for more information.
+Refer to xref:Level-2[Level-2] for more information.
