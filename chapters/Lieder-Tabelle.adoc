@@ -1,24 +1,4 @@
-=== Lieder Tabelle
-
-https://github.com/rochacbruno/asciidoctor-book-template
-
-https://alldocs.app/convert-openoffice-odt-to-asciidoc
-
-Das Liederbuch - Kleiner Katzenjammer Karaoke 2023
-
-Version 0.4.7
-
-03.08.2023
-
-image:Pictures/10000000000002D0000001939129F1E1605F34AB.jpg[image,width=642,height=359]
-
-
-
-
-
-
-
-== Lieder Tabelle
+// == Lieder Tabelle
 
 ////
 [cols=",,,a,"]
