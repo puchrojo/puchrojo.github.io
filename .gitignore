@@ -1,3 +1,18 @@
 _build
+!*.vtt
+!*.srt
+!*.sbv
 Videos/*
-
+!*.vtt
+!*.srt
+!*.sbv
+!Videos/*.vtt
+!Videos/*.srt
+!Videos/*.sbv
+!Videos/**/*.vtt
+!Videos/**/*.srt
+!Videos/**/*.sbv
+!Videos/**/**/*.vtt
+!Videos/**/**/*.srt
+!Videos/**/**/*.sbv
+|Videos/Rocío\ Márquez/Luz\ de\ Luna/*srt
