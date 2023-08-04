@@ -33,10 +33,11 @@
 ////
 ++++   
     <video width="600" height="400" controls>
-      <source src="" type="video/mp4">
-      <track label="es" kind="subtitles" srclang="es" src="" default />
+      <source src="../" type="video/mp4">
+      <track label="es" kind="subtitles" srclang="es" src="../" default />
     </video>
 ++++
+
 ////
 
 == Luz Casal
@@ -48,6 +49,17 @@
       <track label="es" kind="subtitles" srclang="es" src="../Videos/Luz Casal/Miénteme al oído/Luz Casal - Miénteme al oído (Videoclip Oficial) [RyD1QIHYQB8].vtt" default />
     </video>
 ++++
+
+== Moop Mama
+
+=== Die Erfindung des Rades (Official Video)
+++++   
+    <video width="600" height="400" controls>
+      <source src="../Videos/MOOP MAMA/Die Erfindung des Rades/MOOP MAMA - Die Erfindung des Rades official Video [02hAO3wCfdE].webm" type="video/mp4">
+      <track label="es" kind="subtitles" srclang="es" src="../Videos/MOOP MAMA/Die Erfindung des Rades/MOOP MAMA - Die Erfindung des Rades official Video [02hAO3wCfdE].vtt" default />
+    </video>
+++++
+
 
 == Rocío Márquez
 

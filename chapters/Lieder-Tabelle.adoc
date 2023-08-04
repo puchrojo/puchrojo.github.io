@@ -279,10 +279,12 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |
 
 .3+|xref:Moop Mama[Moop Mama]
-|xref:Die Erfindung des Rades[Die Erfindung des Rades]
+|xref:Die Erfindung des Rades (Official Video)[Die Erfindung des Rades (Official Video)]
 |https://open.spotify.com/track/5tjfPIUPqUfxhIkzRkfiz1
 |https://www.youtube.com/watch?v=02hAO3wCfdE
+xref:Die Erfindung des Rades (Official Video)[Die Erfindung des Rades (Official Video)]
 |https://www.musixmatch.com/lyrics/Moop-Mama/Die-Erfindung-des-Rades
+xref:Die Erfindung des Rades[Die Erfindung des Rades]
 
 |xref:Herr der Lage[Herr der Lage]
 |https://open.spotify.com/track/3ewcrtFhTHZG13WhCOJya5
