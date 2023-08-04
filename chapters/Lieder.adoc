@@ -1,4 +1,13 @@
 
+== 17 Hippies
+include::inc-Table-Header.adoc[]
+include::../Lyrics/17 Hippies/17 Hippies.adoc[]
+|===
+
+=== Adieu
+include::../Lyrics/17 Hippies/2009 - El Dorado/02 Adieu.txt[]
+
+
 == Ana Belén y Víctor Manuel
 
 === Contamíname

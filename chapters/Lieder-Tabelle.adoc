@@ -20,15 +20,14 @@ image:Pictures/10000000000002D0000001939129F1E1605F34AB.jpg[image,width=642,heig
 
 == Lieder Tabelle
 
+////
 [cols=",,,a,"]
 |===
 |Autor |Título |Spotify |YouTube |Letra
+////
+include::inc-Table-Header.adoc[]
 
-|17 Hippies
-|Adieu
-|https://open.spotify.com/track/1pQag4JkgUGiRs8INXTZDA
-|https://www.youtube.com/watch?v=USO1DPxtfRQ
-|https://www.musixmatch.com/lyrics/17-Hippies/Adieu
+include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 
 |Amaral
 |Voy a acabar contigo
