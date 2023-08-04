@@ -2,6 +2,7 @@
 https://tiiny.host/manage  - Da habe ich es hochgeladen
 https://peach-carmine-45.tiiny.site/   - Das ist meine Seite
 
+   git add -f Videos/**/**/*.vtt Videos/**/**/*.srt Videos/**/**/*.sbv
 
 # Template for Writing an eBook
 
