@@ -184,19 +184,19 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://www.youtube.com/watch?v=d9TYtTLtNCw (Ohne Untertitel)
 |https://www.musixmatch.com/lyrics/Javier-Limón-feat-La-Shica/Agua-Misteriosa-2
 
-|Joan Baez
-|Donna Donna
+|xref:Joan Baez[Joan Baez]
+|xref:Donna Donna[Donna Donna]
 |https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI
 |https://www.youtube.com/watch?v=gQ5Jl4wGNG4
 |
 
-.3+|Joaquín Sabina
+.3+|xref:Joaquín Sabina[Joaquín Sabina]
 |Calle Melancolía
 |https://open.spotify.com/track/5mRyD7afJkGJBaTW9voAiU (kein Text)
 |https://www.youtube.com/watch?v=UuXub_WyBMA
 |https://www.musixmatch.com/lyrics/Joaquín-Sabina/Calle-melancolía
 
-|Cerrado por derribo // Nos Sobran Los Motivos
+|xref:Cerrado por derribo[Cerrado por derribo // Nos Sobran Los Motivos]
 |https://open.spotify.com/track/7g6kvDDj1JF32DWrsAnOlk?si=c37729f61f2547ff[https://open.spotify.com/track/7g6kvDDj1JF32DWrsAnOlk]
 |https://www.youtube.com/watch?v=2WySlCU3X7o
 |https://www.musixmatch.com/lyrics/Joaquín-Sabina/Nos-sobran-los-motivos[https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Nos-sobran-los-motivos]
@@ -206,8 +206,8 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://www.youtube.com/watch?v=otZQWtw7H7s
 |https://www.musixmatch.com/lyrics/Joaquín-Sabina/Con-la-frente-marchita[https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Con-la-frente-marchita]
 
-.2+|Joan Manuel Serrat
-|La mujer que yo quiero
+.2+|xref:Joan Manuel Serrat[Joan Manuel Serrat]
+|xref:La mujer que yo quiero[La mujer que yo quiero]
 |https://open.spotify.com/track/7woFqgcnG5w6xBGHC2wlXY
 |https://www.youtube.com/watch?v=NjkoZsoxNTs
 |
@@ -360,17 +360,7 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://youtu.be/GZDkY-ncSEE
 |
 
-.2+|Rosalía
-|Catalina
-|https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj
-|https://www.youtube.com/watch?v=0OMwDZUWl5g (Letras mit Musicmatch Plugin)
-|
-
-|Malamente (Cap.1: Augurio)
-|https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK
-|https://www.youtube.com/watch?v=Rht7rBHuXW8 (Letras mit Musicmatch Plugin)
- https://www.youtube.com/watch?v=T5QjZCBAITQ Letra
-|
+include::../Lyrics/ROSALÍA/ROSALÍA.adoc[]
 
 |Sarah Lesch
 |Testament
@@ -426,8 +416,8 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://www.youtube.com/watch?v=us5wQxRUDL4
 |
 
-|La Vela Puerca
-|La Calle Adicción
+|xref:La Vela Puerca[La Vela Puerca]
+|xref:La calle adicción[La calle adicción]
 |https://open.spotify.com/track/0Fp5Zs2KZwiuvA58kz5kYg
 |https://youtube.com/watch?v=IptWyblnMbk&feature=shares
 |https://www.musixmatch.com/lyrics/La-Vela-Puerca/La-Calle-Adicción[https://www.musixmatch.com/lyrics/La-Vela-Puerca/La-Calle-Adicci%C3%B3n]
