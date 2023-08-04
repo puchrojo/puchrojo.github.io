@@ -1,0 +1,37 @@
+:doctype: html5
+
+== Embedding Video with Subtitles
+
+=== Video Example
+
+// video::/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/Exampes/video1.ogg[]
+// Using Asciidoctor syntax for a block containing HTML
+
+++++
+<video width="640" height="360" controls>
+  <source src="/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/Exampes/video1.ogg" type="video/mp4">
+  <track label="English (US)" kind="subtitles" src="/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/Exampes/video1.vtt" srclang="en-us" default="">
+</video>
+++++
+
+// Continue with the rest of your document
+Segundo Intento
+
+
+++++
+<video with="800" id="video" controls preload="metadata">
+  <source src="/home/puchrojo/Nextcloud/CANCIONES/Cancionero-asciidoctor/src-videos/sintel-1024-surround.mp4" type="video/mp4" />  
+  <track
+    label="English"
+    kind="subtitles"
+    srclang="en"
+    src="/home/puchrojo/Nextcloud/CANCIONES/Cancionero-asciidoctor/src-videos/sintel-1024-surround.vtt"
+    default />
+</video>
+++++
+
+
+Texto Normal, sind html5
+
+https://github.com/brenopolanski/html5-video-webvtt-example
+https://brenopolanski.github.io/html5-video-webvtt-example/

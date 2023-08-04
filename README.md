@@ -1,3 +1,8 @@
+# Isaac Infos
+https://tiiny.host/manage  - Da habe ich es hochgeladen
+https://peach-carmine-45.tiiny.site/   - Das ist meine Seite
+
+
 # Template for Writing an eBook
 
 - Has book template(asciidoc) for creating html, pdf, epub/mobi.

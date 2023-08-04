@@ -1,0 +1,18 @@
+
+video::/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/test5.mkv[]
+
+== Alles2
+
+video::/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/Anna Depensbuch - Alles über Bord/Alles über Bord-hJJCTM9razM.mp4[]
+
+== ogg
+video::/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/Exampes/video1.ogg[]
+
+// <html>
+// <video controls>
+//  <source src="tutorial.ogg" type="video /ogg">
+//  <source src="/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/test5.mkv" type="video /mkv">
+//  Your browser does not support the video element. Kindly update it to latest version.
+// </video >
+//
+// </html>

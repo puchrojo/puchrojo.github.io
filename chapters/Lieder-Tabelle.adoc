@@ -1,5 +1,15 @@
 // == Lieder Tabelle
 
+Link1 - https://github.com/ietf-wg-cellar/matroska-test-files/raw/master/test_files/test5.mkv
+
+Link2 - vlc://https://github.com/ietf-wg-cellar/matroska-test-files/raw/master/test_files/test5.mkv
+
+Link3 - vlc://github.com/ietf-wg-cellar/matroska-test-files/raw/master/test_files/test5.mkv
+
+Link4 - vlc-x-callback-url://x-callback-url/stream?url=https://github.com/ietf-wg-cellar/matroska-test-files/raw/master/test_files/test5.mkv
+
+Link5 - vlc-x-callback-url://x-callback-url/stream?url=github.com/ietf-wg-cellar/matroska-test-files/raw/master/test_files/test5.mkv
+
 ////
 [cols=",,,a,"]
 |===
@@ -308,15 +318,17 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://www.youtube.com/watch?v=7cWnz8sn11Y
 |https://www.musixmatch.com/lyrics/Roberta-Flack/Killing-Me-Softly-With-His-Song
 
-.5+|Rocío Márquez
-|Fandangos
+.5+|xref:Rocío Márquez[Rocío Márquez]
+|xref:Fandangos (Directo)[Fandangos (Directo)]
 |
 |https://youtu.be/tSFZh15fiCs
+xref:Fandangos (Directo)[Fandangos (Directo)]
 |
 
-|Fandangos de Huelva y Naturales
+|xref:Fandangos de Huelva y Naturales[Fandangos de Huelva y Naturales]
 |
 |https://youtu.be/-LWvXTG5Yj8
+xref:Fandangos de Huelva y Naturales[Fandangos de Huelva y Naturales]
 |
 
 |Quiero
@@ -324,9 +336,10 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://youtu.be/EJIFwQqG59Q
 |
 
-|Luz De Luna
+|xref:Luz de Luna[Luz de Luna]
 |https://open.spotify.com/track/2Dc0Y8z6G7DrN7N2bD8Kts
 |https://youtu.be/EnU6tmagDvU
+ xref:Luz de Luna[Luz de Luna]
 |
 
 |Me Quedo Contigo
@@ -384,11 +397,12 @@ include::../Lyrics/ROSALÍA/ROSALÍA.adoc[]
 |https://www.youtube.com/watch?v=399syDv0bBM
 |
 
-|Travis Birds
-|Madre Conciencia
+|xref:Travis Birds[Travis Birds]
+|xref:Madre Conciencia[Madre Conciencia]
 |https://open.spotify.com/track/6Dlw3N4waHiTKEpypMex5i
 |https://youtu.be/Bwtl9IRZveE
-|
+ xref:Madre Conciencia[Madre Conciencia]
+|https://www.musixmatch.com/de/songtext/Travis-Birds/Madre-Conciencia
 
 |El Último de la Fila
 |No me acostumbro
