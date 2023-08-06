@@ -37,18 +37,40 @@
       <track label="es" kind="subtitles" srclang="es" src="../" default />
     </video>
 ++++
-
 ////
+
+// Begin List
+
+== 17 Hippies
+
+:Artist: 17 Hippies
+:Song: Marlène
+:YoutubeID: toKaN-WFGYQ
+:Format: webm
+include::videoblock.adoc[]
+
 
 == Luz Casal
 
-=== Miénteme al oído
-++++   
-    <video width="600" height="400" controls>
-      <source src="../Videos/Luz Casal/Miénteme al oído/Luz Casal - Miénteme al oído (Videoclip Oficial) [RyD1QIHYQB8].webm" type="video/webm">
-      <track label="es" kind="subtitles" srclang="es" src="../Videos/Luz Casal/Miénteme al oído/Luz Casal - Miénteme al oído (Videoclip Oficial) [RyD1QIHYQB8].vtt" default />
-    </video>
-++++
+:Artist: Luz Casal
+:Song: Miénteme al oído1
+:YoutubeID: RyD1QIHYQB8
+:Format: webm
+include::videoblock.adoc[]
+
+:Artist: Luz Casal
+:Song: No me importa nada
+:YoutubeID: W5MRwCtddrs
+:Format: webm
+include::videoblock.adoc[]
+
+== Marcel Brell & Alin Coen
+
+:Artist: Marcel Brell und Alin Coen
+:Song: Wo die Liebe hinfällt
+:YoutubeID: h4kHIxeREXM
+:Format: mp4
+include::videoblock.adoc[]
 
 == Moop Mama
 
@@ -60,6 +82,18 @@
     </video>
 ++++
 
+Import-versucht
+:Artist: 'MOOP MAMA'
+:Song: 'Die Erfindung des Rades (Official Video)'
+:YoutubeID: 02hAO3wCfdE
+//include::videoblock.adoc[]
+
+== El Reno Renardo
+:Artist: El Reno Renardo
+:Song: Vomito
+:YoutubeID: HPLK8AozF4A
+:Format: mkv
+include::videoblock.adoc[]
 
 == Rocío Márquez
 
@@ -97,22 +131,28 @@
       <track label="pt" kind="subtitles" srclang="es" src="../Videos/Rocío Márquez & Fahmi Alqhai/Angelitos Negros (Directo)/Rocío Márquez & Fahmi Alqhai - Angelitos Negros (Directo) [GZDkY-ncSEE].vtt" default />
     </video>
 ++++
+zweite Versucht
+
+//:Artist: Rocío Márquez & Fahmi Alqhai // Das & könnte ich nicht scapen. 
+:Artist: Rocío Márquez
+:Song: Angelitos Negros (Directo)
+:YoutubeID: GZDkY-ncSEE
+:Format: mkv
+include::videoblock.adoc[]
 
 == Travis Birds
 
-=== Madre Conciencia
-++++
-    <video width="600" height="400" controls>
-      <source src="../Videos/Travis Birds/Madre Conciencia/Travis Birds - Madre Conciencia (Videoclip Oficial con letra) [Bwtl9IRZveE].mkv" type="video/mp4">
-      <source src="../Videos/Travis Birds/Madre Conciencia/Travis Birds - Madre Conciencia (Videoclip Oficial con letra) [Bwtl9IRZveE].mkv" type="video/webm">
-      <track label="pt" kind="subtitles" srclang="es" src="../Videos/Travis Birds/Madre Conciencia/Travis Birds - Madre Conciencia (Videoclip Oficial con letra) [Bwtl9IRZveE].vtt" default />
-    </video>
-++++    
+:Artist: Travis Birds
+:Song: Madre Conciencia
+:YoutubeID: Bwtl9IRZveE
+:Format: mkv
+include::videoblock.adoc[]
+
+
 
 ++++
 </section>
   <footer>
-    <p>by <a href="https://github.com/brenopolanski/html5-video-webvtt-example" target="_blank">Breno Polanski</a></p>
   </footer>
 </body>
 </html>

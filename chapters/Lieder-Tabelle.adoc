@@ -266,10 +266,11 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://www.youtube.com/watch?v=nbMczRv4TNc
 |
 
-|Marcel Brell & Alin Coen
-|Wo die Liebe hinfällt
+|xref:Marcel Brell & Alin Coen[Marcel Brell & Alin Coen]
+|xref:Wo die Liebe hinfällt[Wo die Liebe hinfällt]
 |https://open.spotify.com/track/4eBvsJvUAC7n9VshoN3Sja
-|https://youtu.be/h4kHIxeREXM
+a|* https://youtu.be/h4kHIxeREXM
+  * xref:Wo die Liebe hinfällt[Wo die Liebe hinfällt]
 |
 
 |Marina Rossell, Carlos Cano
@@ -313,6 +314,14 @@ a|* https://www.musixmatch.com/lyrics/Moop-Mama/Die-Erfindung-des-Rades
 |https://open.spotify.com/track/4lENGRYjJNjTWqjdInfBjG
 |https://youtu.be/k_evIjglfa0
 |
+
+|El Reno Renardo
+|xref:Vomito[Vomito]
+|https://open.spotify.com/intl-de/track/1SRCOun892kliRuInQ9OVg
+a|* https://youtu.be/HPLK8AozF4A
+  * xref:Vomito[Vomito]
+|  
+
 
 |Roberta Flack
 |Killing Me Softly
