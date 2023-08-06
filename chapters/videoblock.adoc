@@ -1,12 +1,27 @@
 === {Song}
-// Ohne werden nicht unten in der Block die Variables geselen
-[subs="attributes"] 
+// Ohne subs="atrributes" werden nicht unten in der Block die Variables geselen
+[subs="attributes"]
+ifdef::Notiz[]
+==== {Notiz}
+:!Notiz:
+endif::[]
+[subs="attributes"]
 ++++
     <video width="600" height="400" controls>
       <source src="../Videos/{Artist}/{Song}/{Artist} - {Song} [{youtubeid}].{Format}" type="video/mp4">
-      <track label="es" kind="subtitles" srclang="es" src="../Videos/{Artist}/{Song}/{Artist} - {Song} [{YoutubeID}].vtt" default />
+      <track label="es" kind="subtitles" srclang="{Lang}" src="../Videos/{Artist}/{Song}/{Artist} - {Song} [{YoutubeID}].vtt" default />
     </video>
 ++++
+// [] don´t Work on include, no escape found
+[subs="attributes"] 
+ifdef::Text[]
+----
+include::../Videos/{Artist}/{Song}/{Artist} - {Song}.txt[]
+----
+// Unset Text, damit auf das nächste Lied nicht falsch angezeigt wird
+:!Text:
+endif::[]
+
 
 // https://asciidoc-py.github.io/userguide.html#X98
 // https://stackoverflow.com/questions/52528641/with-asciidoctor-how-to-pass-variables-in-source-and-example-blocks

@@ -103,17 +103,24 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://youtu.be/37aQ5jzXKE8
 |https://www.musixmatch.com/lyrics/DePedro-feat-Luz-Casal/Te-sigo-soñando-En-Estudio-Uno[https://www.musixmatch.com/lyrics/DePedro-feat-Luz-Casal/Te-sigo-so%C3%B1ando-En-Estudio-Uno]
 
+|Diego el Cigala y Andrés Calamaro
+|xref:Los Hermanos[Los Hermanos]
+|https://open.spotify.com/intl-de/track/0jQkRskyuYuFM4xXe7w8sa (sind Andrés Calamaro)
+a|* https://youtu.be/ItG4KeCIuI8
+  * xref:Los Hermanos[Los Hermanos]
+| 
+
 .3+|Dota Kehr
 |Grenzen
 |https://open.spotify.com/track/56tnCUAec2vaY6N5IBj3L7
 |https://www.youtube.com/watch?v=txanYnZgsWI
 |
-
+//
 |Vergiftet
 |https://open.spotify.com/track/3g4IMMkVfWFgau3HXxMPvw (kein Sync)
 |https://www.youtube.com/watch?v=xWjlcTkuRV4
 |https://www.musixmatch.com/lyrics/Dota-Kehr/Vergiftet
-
+//
 |Warten auf Wind
 |https://open.spotify.com/track/5FMVcUejjXsPJqcmtHV1x8
 |https://www.youtube.com/watch?v=IMTsK5HaUGE
@@ -123,6 +130,13 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |Shape of you
 |https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
 |https://www.youtube.com/watch?v=TRkIdcuXZQg
+|
+
+|ELIF
+|xref:Feuer[Feuer]
+|https://open.spotify.com/intl-de/track/1m0iS6Ch5gQ7v4jce6Qwj1
+a|* https://youtu.be/yCk3rX7u-0I
+  * xref:Feuer[Feuer]
 |
 
 |Emilia
@@ -142,6 +156,14 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://open.spotify.com/track/428cFrawSqeLoyooQjAW9d
 |https://www.youtube.com/watch?v=8qz8FqmTsJY (sin letra)
 |
+
+|xref:Gisbert zu Knyphausen[Gisbert zu Knyphausen]
+|xref:Dreh dich nicht um[Dreh dich nicht um]
+|https://open.spotify.com/intl-de/track/2c9NNuOGFS3L9QOs0RdB9M (ohne Text)
+a| * https://youtu.be/BGbDs_FEcMk
+   * xref:Dreh dich nicht um[Dreh dich nicht um]
+| 
+
 
 |xref:Gloria Estefan[Gloria Estefan]
 |xref:Mi tierra[Mi tierra]
@@ -185,12 +207,12 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://open.spotify.com/track/5mRyD7afJkGJBaTW9voAiU (kein Text)
 |https://www.youtube.com/watch?v=UuXub_WyBMA
 |https://www.musixmatch.com/lyrics/Joaquín-Sabina/Calle-melancolía
-
+//
 |xref:Cerrado por derribo[Cerrado por derribo // Nos Sobran Los Motivos]
 |https://open.spotify.com/track/7g6kvDDj1JF32DWrsAnOlk?si=c37729f61f2547ff[https://open.spotify.com/track/7g6kvDDj1JF32DWrsAnOlk]
 |https://www.youtube.com/watch?v=2WySlCU3X7o
 |https://www.musixmatch.com/lyrics/Joaquín-Sabina/Nos-sobran-los-motivos[https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Nos-sobran-los-motivos]
-
+//
 |Con la frente marchita
 |https://open.spotify.com/track/1iRf1TGSCLaxU7O7iBLiuV
 |https://www.youtube.com/watch?v=otZQWtw7H7s
@@ -201,7 +223,7 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |https://open.spotify.com/track/7woFqgcnG5w6xBGHC2wlXY
 |https://www.youtube.com/watch?v=NjkoZsoxNTs
 |
-
+//
 |La Saeta
 |https://open.spotify.com/track/5d6NoRmMBfFoNRjrWKIPBf
 |https://www.youtube.com/watch?v=ygsM7cqGhDk
@@ -280,10 +302,10 @@ a|* https://youtu.be/h4kHIxeREXM
 |
 
 .3+|xref:Moop Mama[Moop Mama]
-|xref:Die Erfindung des Rades (Official Video)[Die Erfindung des Rades (Official Video)]
+|xref:Die Erfindung des Rades[Die Erfindung des Rades]
 |https://open.spotify.com/track/5tjfPIUPqUfxhIkzRkfiz1
 a|* https://www.youtube.com/watch?v=02hAO3wCfdE
-* xref:Die Erfindung des Rades (Official Video)[Die Erfindung des Rades (Official Video)]
+* xref:Die Erfindung des Rades[Die Erfindung des Rades]
 a|* https://www.musixmatch.com/lyrics/Moop-Mama/Die-Erfindung-des-Rades
   * xref:Die Erfindung des Rades[Die Erfindung des Rades]
 
@@ -303,16 +325,19 @@ a|* https://www.musixmatch.com/lyrics/Moop-Mama/Die-Erfindung-des-Rades
 |https://youtube.com/watch?v=sWoGhBAm25I&feature=shares
 |
 
+// xfref mit . scheint nicht zu gehen. 
 |No Te Va Gustar ft. Julieta Venegas
-|Chau
+|xref:Chau[Chau]
 |https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P
-|https://youtu.be/umELwiR59IE
+a|* https://youtu.be/umELwiR59IE
+  * xref:Chau[Chau]
 |
 
 |Orishas
-|Mani
+|xref:Maní[Maní]
 |https://open.spotify.com/track/4lENGRYjJNjTWqjdInfBjG
-|https://youtu.be/k_evIjglfa0
+a|* https://youtu.be/k_evIjglfa0
+  * xref:Maní[Maní]
 |
 
 |El Reno Renardo
@@ -366,10 +391,19 @@ xref:Fandangos de Huelva y Naturales[Fandangos de Huelva y Naturales]
 
 include::../Lyrics/ROSALÍA/ROSALÍA.adoc[]
 
-|Sarah Lesch
-|Testament
+|xref:Sarah Connor[Sarah Connor]
+|xref:Wie schön du bist[Wie schön du bist]
+|https://open.spotify.com/intl-de/track/2xtnnO9bHKXEmsfetO3ldK
+a|* https://youtu.be/e33LwA7RXEQ
+  * xref:Wie schön du bist[Wie schön du bist]
+|
+
+
+|xref:Sarah Lesch[Sarah Lesch]
+|xref:Testament[Testament]
 |https://open.spotify.com/track/6bxvyI1oDV7vOiFGFQ4aND
-|https://www.youtube.com/watch?v=XBlw2nnGSLU
+a|* https://www.youtube.com/watch?v=XBlw2nnGSLU
+  * xref:Testament[Testament]
 |
 
 |La Shica
@@ -393,10 +427,12 @@ include::../Lyrics/ROSALÍA/ROSALÍA.adoc[]
 |
 
 .2+|Tipps für Wilhelm
-|Bolivien
+|xref:Bolivien[Bolivien]
 |https://open.spotify.com/track/6swFBYf8lN8rSd0KYGNnNI (sin letra)
 |https://www.youtube.com/watch?v=1GtSINe9l60
-|https://lyricstranslate.com/de/tipps-für-wilhelm-bolivien-lyrics.html
+a|* https://lyricstranslate.com/de/tipps-für-wilhelm-bolivien-lyrics.html
+  * xref:Bolivien[Bolivien]
+//
 |Schöne Zeiten
 |https://open.spotify.com/track/0WYhwfFHAsFmgcXKWTiN2a
 |https://www.youtube.com/watch?v=kd9Bq5ENwIM

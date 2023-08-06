@@ -1,18 +1,236 @@
+:doctype: html5
+// git@github.com:brenopolanski/html5-video-webvtt-example.git
 
-video::/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/test5.mkv[]
+++++
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML5 Video WebVTT Example</title>
+  <meta name="keywords" content="html5, webvtt, webvtt example">
+  <meta name="author" content="Breno Polanski">
+  <meta name="description" content="Sample HTML5 code that makes use of a WebVTT file to add subtitles to a video">
+  <style>
+    * {
+      margin: 20px 0 auto;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>HTML5 Video <a href="https://w3c.github.io/webvtt/">WebVTT</a> Example</h1>
+  </header>
+  <section>
+    <p>This video uses the following <a href="/home/puchrojo/Nextcloud/CANCIONES/Cancionero-asciidoctor/src-videos/html5-video-webvtt-example/MIB2-subtitles-pt-BR.vtt" target="_blank">WebVTT file</a>.</p>
+    <video width="600" height="400" controls>
+      <source src="../Videos/MIB2.mp4" type="video/mp4">
+      <source src="../Videos/MIB2.webm" type="video/webm">
+      <track label="pt" kind="subtitles" srclang="es" src="../Videos/MIB2-subtitles-pt-BR.vtt" default />
+    </video>
+++++
 
-== Alles2
+////
+++++   
+    <video width="600" height="400" controls>
+      <source src="../" type="video/mp4">
+      <track label="es" kind="subtitles" srclang="es" src="../" default />
+    </video>
+++++
+////
 
-video::/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/Anna Depensbuch - Alles über Bord/Alles über Bord-hJJCTM9razM.mp4[]
+:Artist:
+:Song: 
+:Notiz:
+:YoutubeID: 
+:Format:
+:Text: 
+include::videoblock.adoc[]
 
-== ogg
-video::/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/Exampes/video1.ogg[]
 
-// <html>
-// <video controls>
-//  <source src="tutorial.ogg" type="video /ogg">
-//  <source src="/home/puchrojo/Nextcloud/Videos/Kleiner Katzenjammer Karaoke/test5.mkv" type="video /mkv">
-//  Your browser does not support the video element. Kindly update it to latest version.
-// </video >
-//
-// </html>
+// Begin List
+
+== 17 Hippies
+:Artist: 17 Hippies
+:Song: Marlène
+:YoutubeID: toKaN-WFGYQ
+:Format: webm
+include::videoblock.adoc[]
+
+== Diego el Cigala y Andrés Calamaro
+:Artist: Diego el Cigala y Andrés Calamaro
+:Song: Los Hermanos
+:YoutubeID: ItG4KeCIuI8
+:Format: webm
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+
+== ELIF
+:Artist: ELIF
+:Song: Feuer
+:YoutubeID: yCk3rX7u-0I
+:Format: mkv
+:Lang: deu
+include::videoblock.adoc[]
+
+== Gisbert zu Knyphausen
+:Artist: Gisbert zu Knyphausen 
+:Song: Dreh dich nicht um
+:Notiz: live bei TV Noir
+:YoutubeID: BGbDs_FEcMk
+:Format: webm
+include::videoblock.adoc[]
+
+// ------------------------  // 
+== Luz Casal
+
+:Artist: Luz Casal
+:Song: Miénteme al oído1
+:YoutubeID: RyD1QIHYQB8
+:Format: webm
+include::videoblock.adoc[]
+
+:Artist: Luz Casal
+:Song: No me importa nada
+:YoutubeID: W5MRwCtddrs
+:Format: webm
+include::videoblock.adoc[]
+// ------------------------  // 
+
+== Marcel Brell & Alin Coen
+
+:Artist: Marcel Brell und Alin Coen
+:Song: Wo die Liebe hinfällt
+:YoutubeID: h4kHIxeREXM
+:Format: mp4
+include::videoblock.adoc[]
+
+== Moop Mama
+:Artist: Moop Mama
+:Song: Die Erfindung des Rades
+:Notiz: (Official Video)
+:YoutubeID: 02hAO3wCfdE
+:Format: webm
+:Text: 1
+include::videoblock.adoc[]
+// 
+:Artist: Moop Mama
+:Song: Herr der Lage
+:YoutubeID: 1HW51TF-wSc
+:Format: webm
+:Text: 1
+include::videoblock.adoc[]
+
+
+== No Te Va Gustar ft. Julieta Venegas
+:Artist: No Te Va Gustar ft. Julieta Venegas
+:Song: Chau
+:YoutubeID: umELwiR59IE
+:Format: mkv
+include::videoblock.adoc[]
+
+== Orishas
+:Artist: Orishas
+:Song: Maní
+:YoutubeID: k_evIjglfa0
+:Format: webm
+include::videoblock.adoc[]
+
+== El Reno Renardo
+:Artist: El Reno Renardo
+:Song: Vomito
+:YoutubeID: HPLK8AozF4A
+:Format: mkv
+include::videoblock.adoc[]
+
+== Rocío Márquez
+
+=== Fandangos (Directo)
+++++   
+    <video width="600" height="400" controls>
+      <source src="../Videos/Rocío Márquez/Fandangos/Rocío Márquez - Fandangos [tSFZh15fiCs].mkv" type="video/mp4">
+      <track label="pt" kind="subtitles" srclang="es" src="../Videos/Rocío Márquez/Fandangos/Rocío Márquez - Fandangos [tSFZh15fiCs].vtt" default />
+    </video>
+++++
+
+=== Fandangos de Huelva y Naturales
+++++   
+    <video width="600" height="400" controls>
+      <source src="../Videos/Rocío Márquez/Fandangos de Huelva y Naturales/Rocío Márquez y Manuel Herrera - Fandangos de Huelva y Naturales [-LWvXTG5Yj8].mkv" type="video/mp4">
+      <track label="es" kind="subtitles" srclang="es" src="../Videos/Rocío Márquez/Fandangos de Huelva y Naturales/Rocío Márquez y Manuel Herrera - Fandangos de Huelva y Naturales [-LWvXTG5Yj8].vtt" default />
+    </video>
+++++
+
+=== Luz de Luna
+++++   
+    <video width="600" height="400" controls>
+      <source src="../Videos/Rocío Márquez/Luz de Luna/Rocío Márquez - Luz De Luna [KvDF-VF7W9k].webm" type="video/webm">
+      <track label="es" kind="subtitles" srclang="es" src="../Videos/Rocío Márquez/Luz de Luna/Rocío Márquez - Luz De Luna [KvDF-VF7W9k].vtt" default />
+    </video>
+++++
+
+
+
+=== Angelitos Negros (Directo)
+++++   
+    <video width="600" height="400" controls>
+      <source src="../Videos/Rocío Márquez & Fahmi Alqhai/Angelitos Negros (Directo)/Rocío Márquez & Fahmi Alqhai - Angelitos Negros (Directo) [GZDkY-ncSEE].mkv" type="video/mp4">
+      <source src="../Videos/Rocío Márquez & Fahmi Alqhai/Angelitos Negros (Directo)/Rocío Márquez & Fahmi Alqhai - Angelitos Negros (Directo) [GZDkY-ncSEE].mkv" type="video/webm">
+      <track label="pt" kind="subtitles" srclang="es" src="../Videos/Rocío Márquez & Fahmi Alqhai/Angelitos Negros (Directo)/Rocío Márquez & Fahmi Alqhai - Angelitos Negros (Directo) [GZDkY-ncSEE].vtt" default />
+    </video>
+++++
+zweite Versucht
+
+//:Artist: Rocío Márquez & Fahmi Alqhai // Das & könnte ich nicht scapen. 
+:Artist: Rocío Márquez
+:Song: Angelitos Negros (Directo)
+:YoutubeID: GZDkY-ncSEE
+:Format: mkv
+:Lang: spa
+include::videoblock.adoc[]
+
+== Sarah Connor
+:Artist: Sarah Connor
+:Song: Wie schön du bist
+:YoutubeID: e33LwA7RXEQ
+:Format: webm
+:Lang: deu
+:Text: 1
+include::videoblock.adoc[]
+
+== Sarah Lesch
+:Artist: Sarah Lesch
+:Song: Testament
+:YoutubeID: XBlw2nnGSLU
+:Format: webm
+:Text: 1
+include::videoblock.adoc[]
+
+== Tipps für Wilhelm
+:Artist: Tipps fuer Wilhelm
+:Song: Bolivien
+:Notiz: live bei TV Noir
+:YoutubeID: 1GtSINe9l60
+:Format: webm
+:Lang: deu
+:Text: 1
+include::videoblock.adoc[]
+
+
+== Travis Birds
+:Artist: Travis Birds
+:Song: Madre Conciencia
+:YoutubeID: Bwtl9IRZveE
+:Format: mkv
+include::videoblock.adoc[]
+
+
+
+++++
+</section>
+  <footer>
+  </footer>
+</body>
+</html>
+++++

@@ -1,0 +1,8 @@
+:Artist:
+:Song: 
+:Notiz:
+:YoutubeID: 
+:Format:
+:Lang: 
+:Text: 
+include::videoblock.adoc[]

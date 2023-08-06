@@ -39,12 +39,6 @@ include::chapters/Lieder-Tabelle.adoc[]
 == Videos
 include::chapters/Videos.adoc[]
 
-== Videos html5
-include::chapters/Videos-html5.adoc[]
-
-== Videos html5.1
-include::chapters/Videos-html5.1.adoc[]
-
 == Lieder
 
 include::chapters/Lieder.adoc[]
