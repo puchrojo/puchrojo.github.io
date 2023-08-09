@@ -23,6 +23,28 @@ include::../Lyrics/17 Hippies/2009 - El Dorado/02 Adieu.txt[]
 :Text: 1
 include::videoblock.adoc[]
 
+:Artist: Amaral
+include::artistblock.adoc[]
+//
+:Artist: Amaral
+:Song: Cómo hablar
+:Notiz: Videoclip Oficial
+:YoutubeID: DjkLlTLMNDs
+:Format: webm
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+//
+:Artist: Amaral
+:Song: Voy a acabar contigo
+:Notiz: vídeo oficial
+:YoutubeID: FakK4w_oaIc
+:Format: mp4
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+
+
 == Ana Belén y Víctor Manuel
 
 === Contamíname
@@ -164,6 +186,16 @@ include::videoblock.adoc[]
 :Text: 1
 include::videoblock.adoc[]
 // ------------------------  // 
+
+== Mara
+:Artist: Mara
+:Song: Busker
+:Notiz: 
+:YoutubeID: nbMczRv4TNc
+:Format: webm
+:Lang: eng
+:Text: 1
+include::videoblock.adoc[]
 
 == Marcel Brell & Alin Coen
 :Artist: Marcel Brell und Alin Coen

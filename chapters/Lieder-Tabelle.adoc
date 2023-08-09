@@ -9,11 +9,7 @@ include::inc-Table-Header.adoc[]
 
 include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 
-|Amaral
-|Voy a acabar contigo
-|https://open.spotify.com/track/2YgpiCrCkZIj6EwQIiiBdT
-|https://www.youtube.com/watch?v=FakK4w_oaIc
-|
+include::../Lyrics/Amaral/Amaral.adoc[]
 
 |Amparo Velasco “La Negra”
 |La seguridad
@@ -263,8 +259,8 @@ include::../Lyrics/Luz Casal/Luz Casal.adoc[]
 |https://www.youtube.com/watch?v=3JlEfmlZ93E
 |https://www.musixmatch.com/lyrics/Malu/A-Tu-Vera-En-Directo
 
-|Mara
-|Busker
+|xref:Mara[Mara]
+|xref:Busker[Busker]
 |https://open.spotify.com/track/6mIomwF4fwnhTsbHD2TGm0 (26.03.23 sync in musixmatch, now OK in Spotify)
 |https://www.youtube.com/watch?v=nbMczRv4TNc
 |
