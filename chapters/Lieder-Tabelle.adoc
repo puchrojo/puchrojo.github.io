@@ -92,21 +92,7 @@ a|* https://youtu.be/ItG4KeCIuI8
   * xref:Los Hermanos[Los Hermanos]
 | 
 
-.3+|Dota Kehr
-|Grenzen
-|https://open.spotify.com/track/56tnCUAec2vaY6N5IBj3L7
-|https://www.youtube.com/watch?v=txanYnZgsWI
-|
-//
-|Vergiftet
-|https://open.spotify.com/track/3g4IMMkVfWFgau3HXxMPvw (kein Sync)
-|https://www.youtube.com/watch?v=xWjlcTkuRV4
-|https://www.musixmatch.com/lyrics/Dota-Kehr/Vergiftet
-//
-|Warten auf Wind
-|https://open.spotify.com/track/5FMVcUejjXsPJqcmtHV1x8
-|https://www.youtube.com/watch?v=IMTsK5HaUGE
-|
+include::../Lyrics/Dota/Dota.adoc[]
 
 |Ed Sheeran
 |Shape of you
@@ -119,7 +105,7 @@ a|* https://youtu.be/ItG4KeCIuI8
 |https://open.spotify.com/intl-de/track/1m0iS6Ch5gQ7v4jce6Qwj1
 a|* https://youtu.be/yCk3rX7u-0I
   * xref:Feuer[Feuer]
-|
+|xref:Feuer[Feuer]
 
 |Emilia
 |Big Big World
@@ -240,11 +226,13 @@ include::../Lyrics/Luz Casal/Luz Casal.adoc[]
 |https://www.youtube.com/watch?v=fAtKv8AvO5k
 |https://www.musixmatch.com/lyrics/Alejandro-Amenábar-con-Carlos-Núñez-y-Luz-Casal/Negra-sombra
 
-|Malú
-|A Tu Vera
+|xref:Malú[Malú]
+|xref:A tu vera[A tu vera]
 |https://open.spotify.com/track/4Qf1tEL04mFY4ZKfpjU36G
-|https://www.youtube.com/watch?v=3JlEfmlZ93E
-|https://www.musixmatch.com/lyrics/Malu/A-Tu-Vera-En-Directo
+|* https://www.youtube.com/watch?v=3JlEfmlZ93E
+ * xref:A tu vera[A tu vera]
+|* https://www.musixmatch.com/lyrics/Malu/A-Tu-Vera-En-Directo
+ * xref:A tu vera[A tu vera]
 
 |xref:Mara[Mara]
 |xref:Busker[Busker]
@@ -357,13 +345,6 @@ include::../Lyrics/El Último de la Fila/El Último de la Fila.adoc[]
  https://www.youtube.com/watch?v=BtU-PrWknWA (Vidoclip oficial)
 |https://www.musixmatch.com/lyrics/Vetusta-Morla/Lo-que-te-hace-grande
 
-.2+|Zaz
-|Éblouie par la nuit
-|https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU
-|https://www.youtube.com/watch?v=Y4uCoHndyi4
-|https://www.musixmatch.com/lyrics/ZAZ/Éblouie-par-la-nuit[https://www.musixmatch.com/lyrics/ZAZ/%C3%89blouie-par-la-nuit]
-|Port Coton |https://open.spotify.com/track/1rQPdB1dROvBLwzI7AyvPW
-|https://www.youtube.com/watch?v=lY-LrolYt08
-|https://www.musixmatch.com/lyrics/ZAZ/Port-coton
-|
+include::../Lyrics/Zaz/Zaz.adoc[]
+
 |===

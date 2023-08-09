@@ -105,12 +105,35 @@ The answer is blowing in the wind
 :Text: 1
 include::videoblock.adoc[]
 
+:Artist: Dota
+include::artistblock.adoc[]
+//
+:Artist: Dota
+:Song: Grenzen
+:Notiz: live Session
+:YoutubeID: 9T_WCKiJJKM
+:Format: webm
+:Lang: deu
+:Text: 1
+include::videoblock.adoc[]
+//
+:Artist: Dota
+:Song: Vergiftet
+:Notiz: 
+:YoutubeID: xWjlcTkuRV4
+:Format: webm
+:Lang: deu
+:Text: 1
+include::videoblock.adoc[]
+
+
 == ELIF
 :Artist: ELIF
 :Song: Feuer
 :YoutubeID: yCk3rX7u-0I
 :Format: mkv
 :Lang: deu
+:Text: 1
 include::videoblock.adoc[]
 
 
@@ -209,6 +232,16 @@ include::videoblock.adoc[]
 :Text: 1
 include::videoblock.adoc[]
 // ------------------------  // 
+
+== Malú
+:Artist: Malú
+:Song: A tu vera
+:Notiz: 
+:YoutubeID: 3JlEfmlZ93E
+:Format: webm
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
 
 == Mara
 :Artist: Mara
@@ -435,3 +468,15 @@ include::videoblock.adoc[]
 include::../Lyrics/La Vela Puerca/2014 - Érase.._/02 La calle adicción.txt[]
 ----
 
+:Artist: Zaz
+include::artistblock.adoc[]
+//
+:Artist: Zaz
+:Song: Port Coton
+:Notiz: 
+:YoutubeID: lY-LrolYt08
+:Format: mp4
+:Lang: fra
+:Text: 1
+include::videoblock.adoc[]
+// ToDo Das Lied hat Untertitel in fra, deu und spa. Eigene Vorlage einrichten. 
