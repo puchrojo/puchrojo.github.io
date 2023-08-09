@@ -1,3 +1,5 @@
-[cols=",,,a,"]
+//[cols="6,6,6,1a,1"]
+//[cols="25%a,30%a,15%a,15%a,15%a"]
+[cols="20%a,20%a,16%a,16%a,16%a"]
 |===
 |Autor |Título |Spotify |YouTube |Letra

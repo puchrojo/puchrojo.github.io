@@ -49,13 +49,18 @@ include::videoblock.adoc[]
 
 
 // Begin List
-
+////
 == 17 Hippies
+include::inc-Table-Header.adoc[]
+include::../Lyrics/17 Hippies/17 Hippies.adoc[]
+|===
 :Artist: 17 Hippies
 :Song: Marlène
 :YoutubeID: toKaN-WFGYQ
 :Format: webm
 include::videoblock.adoc[]
+////
+
 
 == Diego el Cigala y Andrés Calamaro
 :Artist: Diego el Cigala y Andrés Calamaro
@@ -86,7 +91,7 @@ include::videoblock.adoc[]
 == Luz Casal
 
 :Artist: Luz Casal
-:Song: Miénteme al oído1
+:Song: Miénteme al oído
 :YoutubeID: RyD1QIHYQB8
 :Format: webm
 include::videoblock.adoc[]

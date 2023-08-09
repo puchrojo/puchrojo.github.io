@@ -1,12 +1,27 @@
-
+////
 == 17 Hippies
 include::inc-Table-Header.adoc[]
 include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 |===
+////
+
+:Artist: 17 Hippies
+include::artistblock.adoc[]
+
 
 === Adieu
+----
 include::../Lyrics/17 Hippies/2009 - El Dorado/02 Adieu.txt[]
+----
 
+:Artist: 17 Hippies
+:Song: Marlène
+:Notiz:
+:YoutubeID: toKaN-WFGYQ
+:Format: webm
+:Lang: fra
+:Text: 1
+include::videoblock.adoc[]
 
 == Ana Belén y Víctor Manuel
 

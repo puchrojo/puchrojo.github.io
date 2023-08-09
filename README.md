@@ -4,6 +4,11 @@ https://peach-carmine-45.tiiny.site/   - Das ist meine Seite
 
    git add -f Videos/**/**/*.vtt Videos/**/**/*.srt Videos/**/**/*.sbv
 
+Erzeugen den Lyrics.txt ohne Zeiten
+
+   sed -i 's/\[.*]//' file.srt
+
+
 # Template for Writing an eBook
 
 - Has book template(asciidoc) for creating html, pdf, epub/mobi.

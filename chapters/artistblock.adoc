@@ -1,0 +1,4 @@
+== {Artist}
+include::inc-Table-Header.adoc[]
+include::../Lyrics/{Artist}/{Artist}.adoc[]
+|===
