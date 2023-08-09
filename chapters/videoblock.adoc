@@ -5,6 +5,9 @@ ifdef::Notiz[]
 ==== {Notiz}
 :!Notiz:
 endif::[]
+
+ifeval::["{backend}" == "html5"]
+//link:mydocument.pdf[pdf version,window=_blank]
 [subs="attributes"]
 ++++
     <video width="600" height="400" controls>
@@ -12,6 +15,8 @@ endif::[]
       <track label="es" kind="subtitles" srclang="{Lang}" src="../Videos/{Artist}/{Song}/{Artist} - {Song} [{YoutubeID}].vtt" default />
     </video>
 ++++
+endif::[]
+
 // [] don´t Work on include, no escape found
 [subs="attributes"] 
 ifdef::Text[]
