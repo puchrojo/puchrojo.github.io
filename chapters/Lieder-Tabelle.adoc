@@ -11,11 +11,7 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 
 include::../Lyrics/Amaral/Amaral.adoc[]
 
-|Amparo Velasco “La Negra”
-|La seguridad
-|https://open.spotify.com/track/6MSEb1zTAywM5YGgK6ixRh
-|https://www.youtube.com/watch?v=f5S8L_Lit4o
-|
+include::../Lyrics/Amparo Velasco/Amparo Velasco.adoc[]
 
 |xref:Ana Belén y Víctor Manuel[Ana Belén y Víctor Manuel]
 |xref:Contamíname[Contamíname]
@@ -346,11 +342,7 @@ include::../Lyrics/Tipps für Wilhelm/Tipps für Wilhelm.adoc[]
 
 include::../Lyrics/Travis Birds/Travis Birds.adoc[]
 
-|El Último de la Fila
-|No me acostumbro
-|https://open.spotify.com/track/6BoY3FM0VbwlMypL49z0aZ
-|https://www.youtube.com/watch?v=us5wQxRUDL4
-|
+include::../Lyrics/El Último de la Fila/El Último de la Fila.adoc[]
 
 |xref:La Vela Puerca[La Vela Puerca]
 |xref:La calle adicción[La calle adicción]

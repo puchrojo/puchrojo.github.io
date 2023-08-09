@@ -44,6 +44,19 @@ include::videoblock.adoc[]
 :Text: 1
 include::videoblock.adoc[]
 
+:Artist: Amparo Velasco
+include::artistblock.adoc[]
+//
+:Artist: Amparo Velasco
+:Song: La seguridad
+:Notiz: 
+:YoutubeID: f5S8L_Lit4o
+:Format: webm
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+
+
 == Ana Belén y Víctor Manuel
 
 === Contamíname
@@ -397,6 +410,19 @@ include::artistblock.adoc[]
 :Song: Madre Conciencia
 :YoutubeID: Bwtl9IRZveE
 :Format: mkv
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+
+:Artist: El Último de la Fila
+include::artistblock.adoc[]
+//
+// El Último de la Fila  - Ú will nicht
+:Artist: El Último de la Fila
+:Song: No me acostumbro
+:Notiz: 1987
+:YoutubeID: us5wQxRUDL4
+:Format: webm
 :Lang: spa
 :Text: 1
 include::videoblock.adoc[]
