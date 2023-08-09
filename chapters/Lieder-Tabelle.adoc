@@ -309,40 +309,7 @@ include::../Lyrics/El Reno Renardo/El Reno Renardo.adoc[]
 |https://www.youtube.com/watch?v=7cWnz8sn11Y
 |https://www.musixmatch.com/lyrics/Roberta-Flack/Killing-Me-Softly-With-His-Song
 
-.5+|xref:Rocío Márquez[Rocío Márquez]
-|xref:Fandangos (Directo)[Fandangos (Directo)]
-|
-|https://youtu.be/tSFZh15fiCs
-xref:Fandangos (Directo)[Fandangos (Directo)]
-|
-
-|xref:Fandangos de Huelva y Naturales[Fandangos de Huelva y Naturales]
-|
-|https://youtu.be/-LWvXTG5Yj8
-xref:Fandangos de Huelva y Naturales[Fandangos de Huelva y Naturales]
-|
-
-|Quiero
-|https://open.spotify.com/track/61jsnmJWtKEIJ3vIFnkCTL
-|https://youtu.be/EJIFwQqG59Q
-|
-
-|xref:Luz de Luna[Luz de Luna]
-|https://open.spotify.com/track/2Dc0Y8z6G7DrN7N2bD8Kts
-|https://youtu.be/EnU6tmagDvU
- xref:Luz de Luna[Luz de Luna]
-|
-
-|Me Quedo Contigo
-|https://open.spotify.com/track/0OialMUMAfHypBZD1X8MPN
-|https://youtu.be/6H4zOD63aF0
-|
-
-|Rocío Márquez & Fahmi Alqhai
-|Angelitos Negros (Directo)
-|https://open.spotify.com/track/3Dp2wOeVqkT4zav2jHmJBM
-|https://youtu.be/GZDkY-ncSEE
-|
+include::../Lyrics/Rocío Márquez/Rocío Márquez.adoc[]
 
 include::../Lyrics/ROSALÍA/ROSALÍA.adoc[]
 

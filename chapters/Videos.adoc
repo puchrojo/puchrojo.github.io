@@ -116,51 +116,7 @@ include::videoblock.adoc[]
 ////
 
 
-== Rocío Márquez
 
-=== Fandangos (Directo)
-++++   
-    <video width="600" height="400" controls>
-      <source src="../Videos/Rocío Márquez/Fandangos/Rocío Márquez - Fandangos [tSFZh15fiCs].mkv" type="video/mp4">
-      <track label="pt" kind="subtitles" srclang="es" src="../Videos/Rocío Márquez/Fandangos/Rocío Márquez - Fandangos [tSFZh15fiCs].vtt" default />
-    </video>
-++++
-
-=== Fandangos de Huelva y Naturales
-++++   
-    <video width="600" height="400" controls>
-      <source src="../Videos/Rocío Márquez/Fandangos de Huelva y Naturales/Rocío Márquez y Manuel Herrera - Fandangos de Huelva y Naturales [-LWvXTG5Yj8].mkv" type="video/mp4">
-      <track label="es" kind="subtitles" srclang="es" src="../Videos/Rocío Márquez/Fandangos de Huelva y Naturales/Rocío Márquez y Manuel Herrera - Fandangos de Huelva y Naturales [-LWvXTG5Yj8].vtt" default />
-    </video>
-++++
-
-=== Luz de Luna
-++++   
-    <video width="600" height="400" controls>
-      <source src="../Videos/Rocío Márquez/Luz de Luna/Rocío Márquez - Luz De Luna [KvDF-VF7W9k].webm" type="video/webm">
-      <track label="es" kind="subtitles" srclang="es" src="../Videos/Rocío Márquez/Luz de Luna/Rocío Márquez - Luz De Luna [KvDF-VF7W9k].vtt" default />
-    </video>
-++++
-
-
-
-=== Angelitos Negros (Directo)
-++++   
-    <video width="600" height="400" controls>
-      <source src="../Videos/Rocío Márquez & Fahmi Alqhai/Angelitos Negros (Directo)/Rocío Márquez & Fahmi Alqhai - Angelitos Negros (Directo) [GZDkY-ncSEE].mkv" type="video/mp4">
-      <source src="../Videos/Rocío Márquez & Fahmi Alqhai/Angelitos Negros (Directo)/Rocío Márquez & Fahmi Alqhai - Angelitos Negros (Directo) [GZDkY-ncSEE].mkv" type="video/webm">
-      <track label="pt" kind="subtitles" srclang="es" src="../Videos/Rocío Márquez & Fahmi Alqhai/Angelitos Negros (Directo)/Rocío Márquez & Fahmi Alqhai - Angelitos Negros (Directo) [GZDkY-ncSEE].vtt" default />
-    </video>
-++++
-zweite Versucht
-
-//:Artist: Rocío Márquez & Fahmi Alqhai // Das & könnte ich nicht scapen. 
-:Artist: Rocío Márquez
-:Song: Angelitos Negros (Directo)
-:YoutubeID: GZDkY-ncSEE
-:Format: mkv
-:Lang: spa
-include::videoblock.adoc[]
 
 == Sarah Connor
 :Artist: Sarah Connor

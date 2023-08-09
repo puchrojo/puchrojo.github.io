@@ -223,7 +223,6 @@ include::../Lyrics/Orishas/2008 - Cosita buena/02 Maní.txt[]
 ----
 
 == El Reno Renardo
-
 :Artist: El Reno Renardo
 :Song: Vomito
 :YoutubeID: HPLK8AozF4A
@@ -231,6 +230,58 @@ include::../Lyrics/Orishas/2008 - Cosita buena/02 Maní.txt[]
 :Lang: spa
 :Text: 1
 include::videoblock.adoc[]
+
+
+:Artist: Rocío Márquez
+include::artistblock.adoc[]
+//
+//:Artist: Rocío Márquez & Fahmi Alqhai // Das & könnte ich nicht scapen. 
+:Artist: Rocío Márquez
+:Song: Angelitos Negros 
+:Notiz: (Directo)
+:YoutubeID: GZDkY-ncSEE
+:Format: mkv
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+//
+:Artist: Rocío Márquez
+:Song: Fandangos
+:YoutubeID: tSFZh15fiCs
+:Format: mkv
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+//
+:Artist: Rocío Márquez
+:Song: Fandangos de Huelva y Naturales
+:YoutubeID: -LWvXTG5Yj8
+:Format: mkv
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+//
+=== Quiero
+----
+include::../Lyrics/Rocío Márquez/2019 - Visto en el jueves/09 Quiero.txt[]
+----
+//
+:Artist: Rocío Márquez
+:Song: Luz de Luna
+:YoutubeID: KvDF-VF7W9k
+:Format: webm
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+//
+=== Me Quedo Contigo
+----
+include::../Lyrics/Rocío Márquez & Fernando Vacas/2019 - Me Quedo Contigo (Canción Original de la película _Adiós_)/01 Me Quedo Contigo (Canción Original De La Película _Adiós_).txt[]
+----
+
+
+
+
 
 
 == ROSALÍA
