@@ -263,6 +263,9 @@ a| * https://youtu.be/BGbDs_FEcMk
 |https://www.youtube.com/watch?v=FU-kTWUI8wI
 |https://www.musixmatch.com/lyrics/Lénine/Miedo-feat-Julieta-venegas/translation/spanish 
 
+include::../Lyrics/Luz Casal/Luz Casal.adoc[]
+
+////
 .2+|Luz Casal
 |Miénteme al oído
 |https://open.spotify.com/track/04huFyrSsqCyFl0Lcjks0c
@@ -272,7 +275,8 @@ a| * https://youtu.be/BGbDs_FEcMk
 |No Me Importa Nada
 |https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol
 |https://youtu.be/sGGu9IKBGhw
-| 
+|
+////
 
 |Luz Casal & Carlos Nuñez
 |Negra Sombra
@@ -305,23 +309,7 @@ a|* https://youtu.be/h4kHIxeREXM
 |https://www.youtube.com/watch?v=hmqmzdMCCAc
 |
 
-.3+|xref:Moop Mama[Moop Mama]
-|xref:Die Erfindung des Rades[Die Erfindung des Rades]
-|https://open.spotify.com/track/5tjfPIUPqUfxhIkzRkfiz1
-a|* https://www.youtube.com/watch?v=02hAO3wCfdE
-* xref:Die Erfindung des Rades[Die Erfindung des Rades]
-a|* https://www.musixmatch.com/lyrics/Moop-Mama/Die-Erfindung-des-Rades
-  * xref:Die Erfindung des Rades[Die Erfindung des Rades]
-
-|xref:Herr der Lage[Herr der Lage]
-|https://open.spotify.com/track/3ewcrtFhTHZG13WhCOJya5
-|https://youtu.be/1HW51TF-wSc
-|
-
-|xref:Meermenschen[Meermenschen]
-|https://open.spotify.com/track/7mOH3xUZ1Bf0qLFjsihb42
-|https://www.youtube.com/watch?v=cac44EK8zMo
-|https://www.musixmatch.com/lyrics/Moop-Mama/Meermenschen
+include::../Lyrics/Moop Mama/Moop Mama.adoc[]
 
 |Morgan
 |Home

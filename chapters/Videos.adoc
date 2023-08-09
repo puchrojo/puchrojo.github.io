@@ -1,6 +1,7 @@
 :doctype: html5
 // git@github.com:brenopolanski/html5-video-webvtt-example.git
 
+//ifeval::["{backend}" == "html5"]
 ++++
 <!DOCTYPE html>
 <html lang="en">
@@ -29,6 +30,8 @@
       <track label="pt" kind="subtitles" srclang="es" src="../Videos/MIB2-subtitles-pt-BR.vtt" default />
     </video>
 ++++
+//endif::
+
 
 ////
 ++++   
@@ -38,14 +41,6 @@
     </video>
 ++++
 ////
-
-:Artist:
-:Song: 
-:Notiz:
-:YoutubeID: 
-:Format:
-:Text: 
-include::videoblock.adoc[]
 
 
 // Begin List
@@ -61,7 +56,7 @@ include::../Lyrics/17 Hippies/17 Hippies.adoc[]
 include::videoblock.adoc[]
 ////
 
-
+////
 == Diego el Cigala y Andrés Calamaro
 :Artist: Diego el Cigala y Andrés Calamaro
 :Song: Los Hermanos
@@ -70,7 +65,9 @@ include::videoblock.adoc[]
 :Lang: spa
 :Text: 1
 include::videoblock.adoc[]
+////
 
+////
 == ELIF
 :Artist: ELIF
 :Song: Feuer
@@ -78,7 +75,9 @@ include::videoblock.adoc[]
 :Format: mkv
 :Lang: deu
 include::videoblock.adoc[]
+////
 
+////
 == Gisbert zu Knyphausen
 :Artist: Gisbert zu Knyphausen 
 :Song: Dreh dich nicht um
@@ -86,8 +85,10 @@ include::videoblock.adoc[]
 :YoutubeID: BGbDs_FEcMk
 :Format: webm
 include::videoblock.adoc[]
+////
 
 // ------------------------  // 
+////
 == Luz Casal
 
 :Artist: Luz Casal
@@ -101,16 +102,19 @@ include::videoblock.adoc[]
 :YoutubeID: W5MRwCtddrs
 :Format: webm
 include::videoblock.adoc[]
+////
 // ------------------------  // 
 
+////
 == Marcel Brell & Alin Coen
-
 :Artist: Marcel Brell und Alin Coen
 :Song: Wo die Liebe hinfällt
 :YoutubeID: h4kHIxeREXM
 :Format: mp4
 include::videoblock.adoc[]
+////
 
+////
 == Moop Mama
 :Artist: Moop Mama
 :Song: Die Erfindung des Rades
@@ -126,7 +130,7 @@ include::videoblock.adoc[]
 :Format: webm
 :Text: 1
 include::videoblock.adoc[]
-
+////
 
 == No Te Va Gustar ft. Julieta Venegas
 :Artist: No Te Va Gustar ft. Julieta Venegas
