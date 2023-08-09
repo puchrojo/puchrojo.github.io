@@ -348,17 +348,8 @@ a|* https://www.youtube.com/watch?v=XBlw2nnGSLU
 |https://youtu.be/cwkex5O4gNE
 |
 
-.2+|Tipps für Wilhelm
-|xref:Bolivien[Bolivien]
-|https://open.spotify.com/track/6swFBYf8lN8rSd0KYGNnNI (sin letra)
-|https://www.youtube.com/watch?v=1GtSINe9l60
-a|* https://lyricstranslate.com/de/tipps-für-wilhelm-bolivien-lyrics.html
-  * xref:Bolivien[Bolivien]
-//
-|Schöne Zeiten
-|https://open.spotify.com/track/0WYhwfFHAsFmgcXKWTiN2a
-|https://www.youtube.com/watch?v=kd9Bq5ENwIM
-|
+include::../Lyrics/Tipps für Wilhelm/Tipps für Wilhelm.adoc[]
+
 
 |The Tokens
 |The Lion Sleeps Tonight Lyrics
@@ -366,12 +357,7 @@ a|* https://lyricstranslate.com/de/tipps-für-wilhelm-bolivien-lyrics.html
 |https://www.youtube.com/watch?v=399syDv0bBM
 |
 
-|xref:Travis Birds[Travis Birds]
-|xref:Madre Conciencia[Madre Conciencia]
-|https://open.spotify.com/track/6Dlw3N4waHiTKEpypMex5i
-|https://youtu.be/Bwtl9IRZveE
- xref:Madre Conciencia[Madre Conciencia]
-|https://www.musixmatch.com/de/songtext/Travis-Birds/Madre-Conciencia
+include::../Lyrics/Travis Birds/Travis Birds.adoc[]
 
 |El Último de la Fila
 |No me acostumbro

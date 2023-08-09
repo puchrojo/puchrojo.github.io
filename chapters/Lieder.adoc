@@ -280,23 +280,78 @@ include::../Lyrics/Rocío Márquez & Fernando Vacas/2019 - Me Quedo Contigo (Can
 ----
 
 
-
-
-
-
-== ROSALÍA
-include::inc-Table-Header.adoc[]
-include::../Lyrics/ROSALÍA/ROSALÍA.adoc[]
-|===
-<<<<
-
+:Artist: ROSALÍA
+include::artistblock.adoc[]
+//
 === Catalina
+----
 include::../Lyrics/ROSALÍA/2017 - Los ángeles/04 Catalina.txt[]
-
+----
 === Malamente
+----
 include::../Lyrics/ROSALÍA/2018 - EL MAL QUERER/01 Cap.I_ Augurio_ Malamente.txt[]
+----
+
+== Sarah Connor
+:Artist: Sarah Connor
+:Song: Wie schön du bist
+:YoutubeID: e33LwA7RXEQ
+:Format: webm
+:Lang: deu
+:Text: 1
+include::videoblock.adoc[]
+
+== Sarah Lesch
+:Artist: Sarah Lesch
+:Song: Testament
+:YoutubeID: XBlw2nnGSLU
+:Format: webm
+:Text: 1
+include::videoblock.adoc[]
+
+
+== Tipps für Wilhelm
+include::inc-Table-Header.adoc[]
+include::../Lyrics/Tipps für Wilhelm/Tipps für Wilhelm.adoc[]
+|===
+//:Artist: Tipps fuer Wilhelm  // Mit ü lauft nicht
+//include::artistblock.adoc[]
+//
+:Artist: Tipps für Wilhelm
+:Song: Bolivien
+:Notiz: live bei TV Noir
+:YoutubeID: 1GtSINe9l60
+:Format: webm
+:Lang: deu
+:Text: 1
+include::videoblock.adoc[]
+//
+:Artist: Tipps für Wilhelm
+:Song: Schöne Zeiten 
+:Notiz: live @ Hamburger Küchensessions
+:YoutubeID: kd9Bq5ENwIM
+:Format: webm
+:Lang: deu
+:Text: 1
+include::videoblock.adoc[]
+
+
+:Artist: Travis Birds
+include::artistblock.adoc[]
+//
+:Artist: Travis Birds
+:Song: Madre Conciencia
+:YoutubeID: Bwtl9IRZveE
+:Format: mkv
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+
 
 == La Vela Puerca
-
+//
 === La calle adicción
+----
 include::../Lyrics/La Vela Puerca/2014 - Érase.._/02 La calle adicción.txt[]
+----
+

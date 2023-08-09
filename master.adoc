@@ -1,8 +1,8 @@
 = Das Liederbuch - Kleiner Katzenjammer Karaoke 2023
 :author: Isaac Puch Rojo
 :email: puchrojo@gmail.com
-:revnumber: 0.2
-:revdate: 04.08.2023
+:revnumber: 0.3
+:revdate: 09.08.2023
 :doctype: book
 :toc:
 :icons: font
@@ -36,8 +36,9 @@ image::Kleiner Katzenjammer Karaoke - Das Liederbuch-2023.jpg[]
 
 include::chapters/Lieder-Tabelle.adoc[]
 
-== Videos
-include::chapters/Videos.adoc[]
+// == Videos
+// include::chapters/Videos.adoc[]
+// Videos sind jetzt in Lieder gepflegt.
 
 == Lieder
 

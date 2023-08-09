@@ -118,40 +118,10 @@ include::videoblock.adoc[]
 
 
 
-== Sarah Connor
-:Artist: Sarah Connor
-:Song: Wie schön du bist
-:YoutubeID: e33LwA7RXEQ
-:Format: webm
-:Lang: deu
-:Text: 1
-include::videoblock.adoc[]
-
-== Sarah Lesch
-:Artist: Sarah Lesch
-:Song: Testament
-:YoutubeID: XBlw2nnGSLU
-:Format: webm
-:Text: 1
-include::videoblock.adoc[]
-
-== Tipps für Wilhelm
-:Artist: Tipps fuer Wilhelm
-:Song: Bolivien
-:Notiz: live bei TV Noir
-:YoutubeID: 1GtSINe9l60
-:Format: webm
-:Lang: deu
-:Text: 1
-include::videoblock.adoc[]
 
 
-== Travis Birds
-:Artist: Travis Birds
-:Song: Madre Conciencia
-:YoutubeID: Bwtl9IRZveE
-:Format: mkv
-include::videoblock.adoc[]
+
+
 
 
 
