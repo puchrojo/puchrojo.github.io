@@ -1,18 +1,4 @@
-// == Lieder Tabelle
-
-////
-Links zum ofenn der Video in iPhone, aufgegeben. 
-Link1 - https://github.com/ietf-wg-cellar/matroska-test-files/raw/master/test_files/test5.mkv
-
-Link2 - vlc://https://github.com/ietf-wg-cellar/matroska-test-files/raw/master/test_files/test5.mkv
-
-Link3 - vlc://github.com/ietf-wg-cellar/matroska-test-files/raw/master/test_files/test5.mkv
-
-Link4 - vlc-x-callback-url://x-callback-url/stream?url=https://github.com/ietf-wg-cellar/matroska-test-files/raw/master/test_files/test5.mkv
-
-Link5 - vlc-x-callback-url://x-callback-url/stream?url=github.com/ietf-wg-cellar/matroska-test-files/raw/master/test_files/test5.mkv
-////
-
+// Lieder Tabelle // 
 
 ////
 [cols=",,,a,"]
@@ -265,19 +251,6 @@ a| * https://youtu.be/BGbDs_FEcMk
 
 include::../Lyrics/Luz Casal/Luz Casal.adoc[]
 
-////
-.2+|Luz Casal
-|Miénteme al oído
-|https://open.spotify.com/track/04huFyrSsqCyFl0Lcjks0c
-|https://www.youtube.com/watch?v=uplEZ26SKyo
-|
-
-|No Me Importa Nada
-|https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol
-|https://youtu.be/sGGu9IKBGhw
-|
-////
-
 |Luz Casal & Carlos Nuñez
 |Negra Sombra
 |https://open.spotify.com/track/2osl3KlNyd4JszHsikFBli
@@ -325,19 +298,9 @@ a|* https://youtu.be/umELwiR59IE
   * xref:Chau[Chau]
 |
 
-|Orishas
-|xref:Maní[Maní]
-|https://open.spotify.com/track/4lENGRYjJNjTWqjdInfBjG
-a|* https://youtu.be/k_evIjglfa0
-  * xref:Maní[Maní]
-|
+include::../Lyrics/Orishas/Orishas.adoc[]
 
-|El Reno Renardo
-|xref:Vomito[Vomito]
-|https://open.spotify.com/intl-de/track/1SRCOun892kliRuInQ9OVg
-a|* https://youtu.be/HPLK8AozF4A
-  * xref:Vomito[Vomito]
-|  
+include::../Lyrics/El Reno Renardo/El Reno Renardo.adoc[]
 
 
 |Roberta Flack

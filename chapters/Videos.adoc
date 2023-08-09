@@ -87,23 +87,6 @@ include::videoblock.adoc[]
 include::videoblock.adoc[]
 ////
 
-// ------------------------  // 
-////
-== Luz Casal
-
-:Artist: Luz Casal
-:Song: Miénteme al oído
-:YoutubeID: RyD1QIHYQB8
-:Format: webm
-include::videoblock.adoc[]
-
-:Artist: Luz Casal
-:Song: No me importa nada
-:YoutubeID: W5MRwCtddrs
-:Format: webm
-include::videoblock.adoc[]
-////
-// ------------------------  // 
 
 ////
 == Marcel Brell & Alin Coen
@@ -132,26 +115,6 @@ include::videoblock.adoc[]
 include::videoblock.adoc[]
 ////
 
-== No Te Va Gustar ft. Julieta Venegas
-:Artist: No Te Va Gustar ft. Julieta Venegas
-:Song: Chau
-:YoutubeID: umELwiR59IE
-:Format: mkv
-include::videoblock.adoc[]
-
-== Orishas
-:Artist: Orishas
-:Song: Maní
-:YoutubeID: k_evIjglfa0
-:Format: webm
-include::videoblock.adoc[]
-
-== El Reno Renardo
-:Artist: El Reno Renardo
-:Song: Vomito
-:YoutubeID: HPLK8AozF4A
-:Format: mkv
-include::videoblock.adoc[]
 
 == Rocío Márquez
 

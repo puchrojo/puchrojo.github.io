@@ -199,6 +199,40 @@ include::../Lyrics/Moop Mama/2016 - M.O.O.P.topia/10 Meermenschen.txt[]
 ----
 // ------------------------  // 
 
+== No Te Va Gustar ft. Julieta Venegas
+:Artist: No Te Va Gustar ft. Julieta Venegas
+:Song: Chau
+:YoutubeID: umELwiR59IE
+:Format: mkv
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+
+
+:Artist: Orishas
+include::artistblock.adoc[]
+
+:Artist: Orishas
+:Song: Maní
+:YoutubeID: k_evIjglfa0
+:Format: webm
+:Lang: spa
+include::videoblock.adoc[]
+----
+include::../Lyrics/Orishas/2008 - Cosita buena/02 Maní.txt[]
+----
+
+== El Reno Renardo
+
+:Artist: El Reno Renardo
+:Song: Vomito
+:YoutubeID: HPLK8AozF4A
+:Format: mkv
+:Lang: spa
+:Text: 1
+include::videoblock.adoc[]
+
+
 == ROSALÍA
 include::inc-Table-Header.adoc[]
 include::../Lyrics/ROSALÍA/ROSALÍA.adoc[]
